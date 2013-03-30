@@ -1,0 +1,187 @@
+#+TITLE: Final Fantasy 6 - Speedrun notes
+#+AUTHOR: gnuvince
+#+LATEX_HEADER: \usepackage{times}
+
+* Leaving Narshe
+** Party management + Config
+- Bat. speed: 6
+- Msg. speed: 1
+- Cursor: Memory
+- Terra: back row
+** Going to the cave
+*** First battle
+- Terra: bio blast
+- Vicks and Wedge: run away
+*** Avoid second battle
+- Avoid the middle of the road intersection near the items shop (walk
+  right, up, then left) to avoid 2 battles
+*** Third battle
+- Vicks or Wedge: left guard
+- Vicks or Wedge: right Lobo (the one preventing running away)
+- Terra: bio blast
+- Vicks and Wedge: run away
+*** Fourth battle
+- Vicks and Wedge: take out Vomammoth with fire blast (they prevent running away)
+- Terra: bio blast
+- Vicks and Wedge: run away
+*** Random battle(s) in mine
+- Terra: cast fire on all
+- Vicks and Wedge: run away
+*** Whelk
+- Terra: tek missile
+- Vicks and Wedge: bolt blast
+- Attack 4 times, then it will retreat
+- Wait (maybe heal Terra?)
+- Attack again
+- Victory [No XP, so no need to run away]
+** Cave pursuit
+- Terra should be level 6; if not, grind (use fire)
+  - Gives antidote to Terra
+  - Locke will be level 8 (Terra's level + 2)
+- Don't save; don't grab chests
+** Moogle battle
+- Move Locke out of the way (down, then right), switch group
+- This is Mog's group, go down, then left.
+- Go down until intersection at the bottom
+- Turn right
+- Cling to the upper rock wall to avoid battle with the wolfman
+- Cross over beyond the South road
+- Wait until all wolves have cleared the way, but the last one
+- Go West one step, then south
+*** Boss battle
+- Mog and Kupan: attack Marshal
+- Kuku and Kutan: attack Lobos
+- Mog: drop equipment
+- Kill off Marshal
+** Leave Narshe
+- Get out of Narshe
+
+* Vargas
+** Figaro
+*** Leaving Narse
+- Run away from all battles
+*** Entering Figaro Castle
+- Go up to the Throne Room to meet Edgar
+- Don't stop for anything (talking, items, etc.)
+*** Go see Matron
+- Go down 2 rooms from throne room
+- Go left into guarded door
+- Downstairs
+- Go into west tower
+- Talk to the Matron (learn about Sabin)
+*** Meet Kefka
+- Go back to the throne room
+- Talk to Edgar
+- <Kefka cut scene>
+- With Edgar, talk to both guards, then Kefka
+- Go up, talk to Locke
+*** Go to bed
+- With Terra, follow Locke to the east tower
+- Talk to Locke to go to sleep
+*** The Castle is on Fire!
+- With Edgar, leave bedroom (auto)
+- DON'T talk to Kefka!
+- Go up, talk to guard
+- Go left, jump off ledge (auto)
+*** Leaving Figaro Castle
+- Use Edgar's auto crossbow to kill M-TekArmor
+- Steal with Locke
+- DON'T use Terra's fire, don't want to trigger cut scene
+*** South Figaro
+- Go to the cave to the east
+- If there are lots of enemies (e.g. 2 bees, 3 bulby eyes), use
+  Edgar's auto crossbow
+- Go to South Figaro
+- Buy 2 sprint shoes [3000 GP]
+- Terra: Relic +Sprint shoes
+- Put Locke & Edgar in the back row
+- Equip optimum on Edgar and Locke
+- Ride Chocobo to Mt Kolts [80 GP]
+** Mt Kolts
+*** Goal
+- Edgar: level 10
+- Locke: level 9
+- Terra: level 8
+- This makes Sabin level 11 (avg + 2)
+*** Walkthrough
+- Runaway from all battles until you get Atlas Armlet
+- Go behind rocks on the right in the cave to reach secret passage and
+  find Atlas Armlet; equip on Edgar
+- Go fight Vargas
+- Use Edgar's auto crossbow, Locke's steal ability and fire with
+  Terra on Vomamoths
+*** Vargas
+- Steal with Locke
+- Fire with Terra, Crossbow with Edgar
+- With Sabin, Pummel (←→←)
+
+* Ultros 1
+** Leaving Mt Kolts
+- Grab tent in the cave (to resell later)
+- Run away from all fights
+- Go to Returner's Hideout
+** Returner's Hideout
+- Grab potion in the chest
+- Go talk to Banon
+- Talk to Locke + grab chest
+- Talk to Sabin and go north
+- Talk to Edgar
+- Go to Treasure room and grab everything
+  - Don't forget the hidden White Cape
+- Go Talk to Banon and tell him "NO" 3 times to get Genji Gloves
+- <cut scene>
+** Lethe River
+*** Goals
+- Edgar: Level 11
+*** Party management
+- Everyone: Backrow
+- Sabin: Equip OPTIMUM, Relic +Sprint shoes
+- Terra: Relic -Sprint shoes
+*** Walkthrough
+- Get on the raft
+- Always select to go LEFT
+- Look for 2x Pterodron battle
+  - Edgar: Autocross bow (2x)
+  - Others: run away
+- Remove Mithril Pike from Edgar
+- Use 2nd save point
+*** Ultros
+- Sabin: Aura bolt x5 (↓↓←)
+- Edgar: Auto crossbow
+- Banon: Health, then defend
+- Terra: defend, then Fire after 5th Aura bolt
+  - This avoids Ultros dialog
+* Sabin's Scenario
+** Empire Camp
+- Go right (ignore cabin), then down to the Empire Camp
+** Doma Castle
+*** Config
+- Cyan: Relic +Sprint Shoes
+- Battle speed: 1 (faster counter attacks)
+*** Battle
+- Retort (SwdTech 2)
+** Empire Camp
+*** Battles against Kefka
+- Use attack (a single attack will make him run)
+*** Battle against 2 Templars + 2 Soliders
+- Heal before
+- Sabin: Relic +Black Belt (to counter)
+- Defend
+- Let Sabin counter attacks kill your enemies
+** Doma Castle
+- Go to the Throne Room
+- Get out of the Throne Room
+- Go right to your room
+** Empire Camp
+*** Config
+- Battle speed: 6
+*** Joining Cyan
+- Talk to Cyan to engage battle
+- Sabin: attack (possibly Pummel?)
+*** M-TekArmor
+- Use fire blast on everything
+** Phantom Forest
+- Run away from all battles
+- Head directly for the train
+- Heal at the lake
+** Phantom Train

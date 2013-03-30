@@ -1,0 +1,1321 @@
+==============================================================================
+Final Fantasy 3 Speed Walkthrough
+==============================================================================
+
+If you have questions, comments, or tips (especially tips), please contact me:
+mondogecko33@hotmail.com
+
+This guide is copyright 2004-2005 Peter Tiernan.
+
+This may not be reproduced under any circumstances except for personal,
+private use.  It may not be placed on any web site or otherwise distributed
+publicly without advance written permission.  Use of this guide on any other
+web site or as part of a public display is strictly prohibited, and violation
+of copyright.
+
+Final Fantasy III is copyright 1994 Square Co., Ltd.
+
+All trademarks herein are acknowledged as property of their respective
+copyright holders.
+
+
+
+
+==============================================================================
+Contents
+==============================================================================
+
+Miscellaneous
+General Tips
+Walkthrough
+Credits
+
+
+
+
+==============================================================================
+Miscellaneous
+==============================================================================
+
+This is a walkthrough for beating Final Fantasy 3 (AKA Final Fantasy 6) as
+quickly as possible.  How fast you should expect to complete the game with
+this walkthrough depends on how much experience you have with the game, and
+how often you intend to reset when things don't go your way.  My best time is
+5:37.
+
+Console:
+I have FF3 for the Super Nintendo.  In this walkthrough, I refer to Super
+Nintendo controller buttons.  If there are differences between the SNES
+version and the PS version relevant to this walkthrough, I don't know anything
+about them.  If anything works differently on emulation, I don't know anything
+about it.
+
+Version:
+12/22/2004
+-Original submission.
+12/31/2004
+-Addition of Joker Doom trick to General Tips.
+-Addition of Joker Doom trick to Walkthrough.
+-Addition of my times throughout the game.
+-Changes in Floating Continent section of Walkthrough.
+-Deletion of many Frequently Asked Questions that I felt were redundant or
+ self-explanatory.
+-Other minor changes.
+1/18/2005
+-Addition of skipping the intro to Walkthrough.
+-Addition of avoiding the second and third battles to the Narshe section of
+ the walkthrough.
+1/27/2005
+-Changes in Tunnel Armr section of Walkthrough.
+-Changes in 3 party battle section of Walkthrough.
+-Changes in Zozo section of Walkthrough.
+-Changes in Factory section of Walkthrough.
+2/14/2005
+-Very minor changes.
+-Corrected misinformation that Smoke Bomb does not work in Pincer Attack.
+-Corrected instructions to give Celes 2 Earrings before acquiring second
+ Earring.
+3/22/2005
+-Eliminated "FAQ" and "Areas of Difficulty" sections.
+-Changes in Celes's and Setzer's late game functions.
+4/26/2005
+-Added Sniper Sight/Valiant Knife strategy for Cactrots.
+-Noted that Vanish isn't necessary to Doom Hoover.
+-Fixed various small errors.
+
+Detail:
+Feel free to ignore little details, like what items to skip and what weapons
+and armors to equip in what order.  Those things make exactly as little
+difference as you would suspect.
+
+Levels:
+Whatever level you're on naturally should be fine.  Usually, this is how it
+goes for me: Terra is on level 6 when Locke shows up.  Sabin hits level 15 on
+the Mag Roaders.  In the WOR before the dinosaur forest, I'm around level 18.
+I get to level 33 or so in the dinosaur forest.
+
+Exploitable Bugs:
+Evade doesn't do anything: M Evade counts for both physical and magic attacks-
+anything with the word "Force" in the name is good.  Dark status doesn't do
+anything- don't bother healing it.  Clear status ignores instant death
+protection- casting Vanish and then Doom on an enemy is often a good tactic.
+
+About the Times in This Walkthrough:
+The times listed in the walkthrough are recorded from a game I played a while
+back.  The final time is 5:51, which is a bit slower than my best time.
+
+Cheap Tricks:
+I'm not above using Joker Doom and Vanish/Doom.  They make the game faster.
+
+Succeeding Without Aforementioned Cheap Tricks:
+There's no reason you have to use them- they just speed the game up by about
+30 minutes.  If you consider these tricks cheating and don't want to use them,
+learn and exploit elemental weaknesses, mainly by using Rods as much as
+possible until you know level 3 magic.  You also probably want to pick up
+Sabin (AFTER the dinosaur forest), Umaro (along with the Gauntlet in his
+cave), and Bum Rush: I don't think Mog can beat Goddess by himself without
+cheap tricks.  I got Sabin and Umaro in my first couple speed runs, and I
+don't think it added muchy more than 5 minutes to my time.  Although I've
+never done a speed run without using Vanish/Doom, I did my first several
+without Joker Doom, and it wasn't a problem.  Without Vanish/Doom, AtmaWeapon
+and Dullahan could prove difficult.
+
+
+
+
+==============================================================================
+General Tips
+==============================================================================
+
+Money:
+Provided you don't buy extra stuff, you should always have enough.  The only
+things I ever buy are the things I say to buy in the walkthrough.  Tents in
+particular are expensive and usually unnecessary.  Your HP and/or MP will be
+automatically restored in several places, and there are free heals in various
+places.  You shouldn't need to use a single Tent in the WOB.  In the WOR, Tent
+in the dinosaur forest whenever your MP runs out, Tent before and after
+Fanatic's Tower, Tent in Kefka's Tower after Poltergeist and after Doom.  8
+Tents should be enough for the whole game.
+
+Saving:
+The only times I take even a single step out of my way to step on a save point
+are: Mount Kolts, the first save point on the Floating Island, and in Kefka's
+Tower before Inferno.  Save at your discretion.  I save after every battle in
+the dinosaur forest- I recommend doing this.
+
+Don't spend a lot of time in menu screens.  Beating the game fast requires
+knowing what you're going to do ahead of time.  Don't look at all the options
+and think about what you need to do.  Also remember that you can cycle through
+your characters with the R and L buttons while equipping.
+
+Don't re-equip every time you get some new item.  If somebody's naked, equip
+him optimum.  Unless it's something you'll be wearing for the final battle,
+don't go out of your way to get equipment.
+
+After the Opera House you won't be using the "Fight" command, so don't bother
+with weapons apart from the Break Blade, rods, and ones that raise M Evade.
+
+The fastest way to get through dialogue in the combat screens and in the first
+scene with Terra, Vicks and Wedge on the cliff is by holding down the A
+button.  Everywhere else, just keep hitting the A button.
+
+Runic:
+When you tell Celes to Runic, she will take a step forward and hold up her
+sword.  Once she does this, she is "Runicked."  While Runicked, she will
+absorb any spell anybody tries to cast.  She becomes un-Runicked when a) she
+catches a spell, or b) you tell her do something else.  In the battles where
+it makes sense to Runic (only Tunnel Armr and the Espers), tell her to Runic.
+After that, don't do a thing with her, not even tell her to Runic again, until
+you see the name of a spell appear at the top of the screen.  Then tell her to
+Runic again.  If she is still Runicked and her screen comes up, push X to make
+it go away.
+
+Slot:
+You can control what Slot Setzer gets by repeatedly pausing the game until the
+picture you want is just above the center.  Then un-pause and immediately push
+A.  Repeat three times.  This alone will allow you to 7-Flush or Chocabop at
+will.  Some attack animations (both yours and the enemy's) during combat
+affect whether you can get the other combinations.  An Echo Screen sets you up
+to do any winning combination, including Joker Doom- 7-7-7- which wins the
+battle.  This makes the game much easier, and I don't have much trouble
+getting it to work (although I did at first).  If you are having trouble with
+it, this is a list of things that could be going wrong:
+1) You didn't hit the button to stop the slot at the right time.  (Basic, but
+it happens).
+2) Another animation has altered the setup.  The list of animations that will
+do this is pretty short considering the number of attacks in the game, so this
+doesn't happen often.
+3) You didn't wait for the Echo Screen animation to finish.  Just selecting
+Echo Screen isn't enough: the Echo Screen animation needs to have happened
+before you lock in the third slot.  If Battle Mode is on Wait, which it should
+be before you start using Joker Doom, this means the Echo Screen animation
+needs to happen before you select Slot from the combat menu.
+4) You paused during the Echo Screen animation and confused the game.  I used
+to do this all the time, and I couldn't figure out what was going wrong.  If
+you pause while the Echo Screen animation is happening, there's a chance it
+won't register right.
+5) You are fighting an enemy that cannot be Joker Doomed: for the purpose of
+this walkthrough, Ultros, Chupon, and the final battle.
+I learned the Joker Doom trick from MasterZED's Slot page:
+http://masterzed.cavesofnarshe.com/GameDocs/slotfaq.html.  It has all the
+technical information about Slot you could possibly need.
+
+
+
+
+==============================================================================
+Walkthrough
+==============================================================================
+
+Don't push any buttons when you turn the game on: the introduction will play
+through.  Once the introduction starts playing, you can hit buttons again.
+(Use the A button to get through the dialogue as usual).  Then pick New Game.
+It will not show the introduction, and the clock starts when Terra, Vicks, and
+Wedge enter Narshe.
+
+------------------------------------------------------------------------------
+Narshe
+------------------------------------------------------------------------------
+
+First, go into Config.  Set Battle Mode on active, set Battle Speed on 6, set
+Message Speed on 1, set Cursor on Memory.  (Battle Speed does not affect you;
+it affects how quickly enemies attack you.  Slower means you will have to heal
+less, and it also gives enemies less time to mess up the Echo Screen/Joker
+Doom combo).  (The Memory cursor setting is annoying at first, but it doesn't
+take long to get used to).  Put Terra in the back row.  In the first battle,
+have Terra group Fire spell your own party, then single Fire spell Vicks and
+Wedge.  Have Vicks and Wedge Fire Beam one of the guards and heal Terra before
+they die.  Skip the next two battles by going around the square that triggers
+them: if you walk straight up, the trigger square will be one square before
+the two lines of grating cross.  Cure spell after the pincer attack, and Cure
+spell if one of the Mammoths uses Blizzard on you.  In the cave, if you're
+attacked by multiple rats, Fire spell the group.  (If you're out of MP, run).
+If you're attacked by multiple anything else, Bio Beam.  Any beam lone rats.
+
+Whelk:
+Tek Missile until he goes in his shell.  When he says "Gruuuu," Tek Missile
+again, targeting the head.
+
+In Arvis's house, talk to Arvis until he moves up next to the door in the
+upper right.  Then go out the door and across to the mines.  Skip the
+treasures and the save point.  Whenever you're attacked, Fire the group.
+
+Multi-party battle:
+Switch parties.  Equip Mog empty.  Switch parties twice.  Send Locke's party
+down to just above the last island before Marshal.  Stand in the middle.  When
+a party turns in towards you, go out the other side, then back through the
+middle, and down to fight Marshal.  You shouldn't have to fight anybody else.
+
+Marshal:
+Have Locke and the bottom moogle attack the dogs and have the two middle
+moogles attack Marshal.  Then just hold down the A button.
+
+On the way to Figaro Castle, if you're attacked by a single Leafer or Dark
+Wind, have Locke fight it.  If you're attacked by multiple Leafers and Dark
+Winds, Fire them.  Stay next to the mountains until you're straight across
+from the castle.  If you're attacked in the desert, run.
+
+Time: 0:17
+
+------------------------------------------------------------------------------
+Figaro Castle
+------------------------------------------------------------------------------
+
+Go to Edgar and talk to him.  Then go to the woman in the tower to the left
+who tells you about Sabin and talk to her.  Then go back to Edgar and talk to
+him.  When Kefka comes, have Edgar talk to both soldiers and then Kefka, then
+go back and talk to Locke.  As soon as you have control of Terra, have her
+move down and into the door to the right.  You should be able to get through
+the door ahead of Locke.  From there, just follow Locke to the tower and talk
+to him.  When you have control of Edgar, don't talk to Kefka: just go straight
+up and talk to the guard in the door.
+
+Armors:
+Auto Crossbow twice and they'll die.  Don't use Fire or else you will see a
+long dialogue.  Have Locke steal if you want- you won't get anything useful,
+but he has nothing else to do.
+
+Take the Chocabo to the cave to South Figaro in the southeast.  Equip Edgar
+optimum, then equip Locke optimum.  Put Locke and Edgar in the back row.
+
+In the cave, don't get any chests.  Auto Crossbow everything.  Don't cast
+Fire or you will see a long dialogue.
+
+Go to South Figaro.  If you're attacked, Auto Crossbow.
+
+Time: 0:28
+
+------------------------------------------------------------------------------
+South Figaro
+------------------------------------------------------------------------------
+
+Go straight to the relic shop.  Talk to the shopkeeper over the right side of
+the counter to avoid talking to the merchant.  Buy three Sprint Shoes.  Give
+Terra Sprint Shoes.  Go into the big house at the top, go through the secret
+passage, and get the Hyper Wrist and Running Shoes.  Give Edgar Running Shoes/
+Hyper Wrist.
+
+Go to Mount Kolts in the northeast.
+
+------------------------------------------------------------------------------
+Mount Kolts
+------------------------------------------------------------------------------
+
+Use Terra's Cure spell to keep HP up: if somebody dies you won't be able to
+bring him back to life, so make sure nobody does.  Before you have the Atlas
+Armet, have Edgar crossbow, then have Locke and Terra fight.  In the second
+underground room, go through the wall to the right and get the Atlas Armet.
+Give Edgar Atlas Armet in place of Running Shoes.  Edgar should be able to
+take out anything but the mammoth things with a shot from the Auto Crossbow.
+Have Terra Fire the mammoth things and have Edgar crossbow everything.  At the
+save point, have Terra cure Locke and Edgar full, then Sleeping Bag Terra.
+
+Time: 0:32
+
+Before you fight Vargas, Cure and put Locke in the front row.
+
+Vargas:
+Auto Crossbow/group Fire/fight the bears to death.  Make sure Locke attacks
+whichever bear has taken less damage.  Auto Crossbow/Fire/fight Vargas until
+Sabin shows up.  Pummel Vargas immediately.  You shouldn't have to heal.
+
+Give Sabin Running Shoes/Sprint Shoes, Cure spell if you have the MP, put
+Sabin in the back row.
+
+You should be equipped as follows:
+Terra- Sprint Shoes
+Locke- (no relics)
+Edgar- Atlas Armet/Hyper Wrist
+Sabin- Sprint Shoes/Running Shoes
+
+If you're attacked on the way to the hideout, Auto Crossbow, then Aura Bolt.
+
+Time: 0:39
+
+------------------------------------------------------------------------------
+Returner Hideout
+------------------------------------------------------------------------------
+
+Talk to Banon.  When you have control of Terra get all the items except the
+antidote in the upper left pot and the Green Cherry in the pot above Sabin.
+Make sure you get the White Cape through the wall in the room with the Air
+Lancet.  Talk to Locke, Sabin, and Edgar.  Go outside.  Say "No" to Banon
+three times.
+
+On the river, Crossbow/group Fire anything that's not a Pteredon.  Crossbow/
+single Fire/Aura Bolt Pteredons.  Health when HP gets low.  At the first fork
+go straight.  At the second fork go left.
+
+Time: 0:45
+
+Ultros:
+Aura Bolt/Fire/Auto Crossbow.  Have Banon Health when you need it and fight
+when you don't.
+
+------------------------------------------------------------------------------
+Banon Scenario
+------------------------------------------------------------------------------
+
+Walk to Narshe, fighting lone enemies and Crossbowing groups.
+
+Time: 0:49
+
+Go through the secret door Locke showed you.  Auto Crossbow should kill
+anything in one hit.  Don't get any chests, just go straight to Arvis's house.
+Strip Edgar of relics and Terra of equipment before you go through the door
+inside Arvis's house.
+
+------------------------------------------------------------------------------
+Sabin Scenario
+------------------------------------------------------------------------------
+
+Get Shadow.  Give Shadow Genji Glove/Atlas Armet and let him equip himself
+optimum.  This is a good time to save- if Shadow tries to leave with your
+stuff, you want to be able to reset.
+
+Go right and then down between the mountains and the water to the imperial
+camp.  If you're attacked by more than two enemies, run.  Fight/Aura Bolt
+small groups.
+
+Time: 0:54
+
+When you have control of Cyan give him Sprint Shoes/Hyper Wrist and go
+straight to the Commander.
+
+You should be equipped as follows:
+Sabin- Sprint Shoes/Running Shoes
+Shadow- Genji Glove/Atlas Armet
+Cyan- Sprint Shoes/Hyper Wrist
+
+Commander:
+Use Retort and wait for Commander to hit you.
+
+Don't get any of the chests in the base.  Just chase Kefka, hold down the A
+button when he tries to fight you, and Aura Bolt/fight the Templar/Soldier
+party.  When you have control of Cyan, run straight to the king and then
+straight to the room with Elayne and Owain.  When you have control of Sabin,
+talk to Cyan to join in each fight.  Aura Bolt with Sabin, fight with Shadow.
+In the armors, go back to the entrance of the camp.  Fire Beam everything.
+
+Time: 1:06
+
+Outside, put Cyan in the back row.  Go straight to the Phantom Forest.  Fight/
+Aura Bolt/Dispatch all enemies.
+
+In the Phantom Forest, go right in every screen: if you can go up, go up.  If
+you can't go up, go down.  Aura bolt/Dispatch/fight.
+
+On the Ghost Train, Aura Bolt/Dispatch/fight everything.  You shouldn't need
+to save or Tent at all.
+First car: Walk back to the door and push A; leave the car to the left.
+Third car: Go two steps in, then fight the Ghost in the door.
+Fourth car: Push the lever.  Go back in and push the lever again.  Exit to the
+left.
+Fifth car: Go in through the left entrance and get the Earring.
+Seventh Car: Go in through the right entrance, go through the second door, and
+get the Fenix Down in the second chest and the Sniper Sight in the third
+chest.
+Engine: Push the switches on the left and right, then go out to the
+smokestack and push A.
+Avoid going into the other cars when possible.
+Don't bother to heal before fighting the train.
+
+Ghost Train:
+Fenix Down it.  Hope the Train doesn't use Evil Toot to muddle the character
+using the Fenix Down.
+
+Just wait for the platform scene to fade.
+
+Time: 1:16
+
+Go to the falls, strip Shadow, if you have Black Belt give it to Cyan in place
+of Sprint Shoes.  Don't bother healing: the game does it for you.  Jump.
+Fight until Rizopas shows up, then Aura Bolt/Dispatch.
+
+On the Veldt, run if you can until you get to Molbiz.
+
+In Molbiz, buy Dried Meat.  Sleep in the relic shop if you need to.
+
+Leave town and head south.  Aura Bolt/Dispatch in all the battles until Gau
+shows up.  Hopefully you'll get Gau on the way to the cave.  (Dried Meat him
+when he shows up).  If you don't have him when you get to the cave, just walk
+back and forth in front of the entrance.  You might want to save here: a
+poorly-timed Aqua Rake or a pincer attack involving Giga Volt could kill you.
+
+Time: 1:24
+
+In the cave, go up, across the bridge, and straight down for the helmet.
+
+In the trench, run from Aspiks, Aura Bolt/Dispatch/Rage M-Tec Armor everything
+else.  Dispatch or Tek Laser might not kill an Aguiform, so against parties
+with Aguiforms, have Sabin Aura Bolt before you give Gau and Cyan their
+commands.  Go left at the forks.
+
+In Nikeah, buy 21 Smoke Bombs, remove Running Shoes from Sabin (and the Sprint
+Shoes too if Cyan is still wearing his), go to the ship captain.  Hop aboard.
+
+------------------------------------------------------------------------------
+Locke Scenario
+------------------------------------------------------------------------------
+
+Time: 1:29
+
+Choose the Locke scenario.  Give Locke Sprint Shoes/Running Shoes, equip Locke
+optimum.  Go to the items shop and talk to the merchant.  Steal.  Go through
+cider guy's house, across the water behind the roof, and into the cafe.  Go
+across through the soldiers and down the stairs to where the other merchant
+is.  Talk to him.  Fight.  Take the Cider back to the cider guy, tell the kid
+courage, and go through the secret passage.  Get the Fenix Down in the barrel
+and the Elixir in the clock on your way to Celes.  Change clothes.  Talk to
+Celes.  Take the key from the guard.  Get all the chests except the empty one
+(bottom right) in the clock room.  Wind the clock in the upper right.
+
+Skip all the chests except the Earrings (bottom left).  Smoke Bomb all
+encounters.
+
+Leave South Figaro and go to the cave in the west.  If you intend to try
+Tunnel Armr without using Runic, save.
+
+Smoke Bomb all encounters, don't get any chests.  Heal at the spring.  Several
+steps before the exit, give Celes 2 Earrings, give Locke Atlas Armet/Genji
+Glove, let him equip himself optimum, equip Celes optimum.
+
+Tunnel Armr:
+Safe strategy: have Locke fight and Celes runic.  (See "Runic" under "General
+Tips" if you don't know how to Runic effectively).
+Slightly risky strategy: have Locke fight and Celes use Ice.  More often than
+not, you'll be fine.
+Either way, it's a quick fight that doesn't involve healing.
+
+------------------------------------------------------------------------------
+Narshe
+------------------------------------------------------------------------------
+
+Time: 1:41
+
+In the multi-party battle, make the first party Edgar, Sabin, Cyan, Celes.
+Put Locke in one of the other parties, and someone else in the third.
+Immediately move Edgar's party down and a little to the right, as far as you
+can get without running into soldiers.  There is a gap you can stand in where
+none of the green soldiers will attack you.  Switch to Locke's party and
+remove Locke's Atlas Armet.  Switch back to Edgar's party.  Give Celes Sprint
+Shoes/nothing, give Cyan Atlas Armet in place of Black Belt, give Sabin 2
+Earrings, equip Edgar optimum.  As soon as the green soldiers are past, hide
+the Edgar party in the dead-end passage in the lower left until the brown
+soldiers go by.  Stand in front of Rider, wait until he goes by to the right,
+and go down and fight Kefka.  You shouldn't have to fight anybody besides
+Kefka.
+
+You should be equipped as follows:
+Edgar- (no relics)
+Celes- Sprint Shoes
+Sabin- 2 Earrings
+Cyan- Atlas Armet/Hyper Wrist
+
+Kefka:
+Auto Crossbow/Dispatch/Aura Bolt/Ice.  You shouldn't have to heal.
+
+When you regroup in Narshe, form a party of Edgar/Celes/Cyan/Sabin with Edgar
+in the lead.  Get the Elixir in Arvis's clock.  Clear out the treasure house
+below Arvis's house.
+
+On the way to Figaro Castle, fight lone Leafers or Dark Winds, Auto Crossbow
+anything else.
+
+------------------------------------------------------------------------------
+Figaro Castle
+------------------------------------------------------------------------------
+
+Buy a Flash and a Drill, get the Soft behind the items guy, buy 4 Tents and 11
+Fenix Downs.  Go to the basement and have the engineer take you across the
+mountains.
+
+Give Sabin Sprint Shoes/nothing, give Edgar two Earrings.  Go to the little
+hut on the peninsula to the north.  On the way there, Flash will take out Mind
+Candies, Red Fangs, and Iron Fists by itself.  Aura Bolt/Drill/Dispatch
+parties that don't have these monsters.  Get the Hero Ring in the pot.  Go to
+the Chocobo stable in the forest next to the hut.  Ride a Chocabo to Zozo.
+Before going into Zozo, give Edgar Hero Ring in place of an Earring, give
+Celes 2 Earrings.
+
+You should be equipped as follows:
+Edgar- Hero Ring/Earring
+Sabin- Sprint Shoes/any
+Cyan- Atlas Armet/Hyper Wrist
+Celes- 2 Earrings
+
+Time: 1:52
+
+------------------------------------------------------------------------------
+Zozo
+------------------------------------------------------------------------------
+
+Keep HP up with Celes's Cure spell.  Tincture her when her MP runs out.  Smoke
+Bomb Hades Gigas, Aura Bolt/Drill/Dispatch lone enemies, Flash/group Ice
+everything else.  Go to the relic shop in the bottom left and go up, jumping
+between buildings whenever you have the opportunity.  Don't get any of the
+items on the way.  Before fighting Dadaluma, heal, give Edgar Hyper Wrist in
+place of Earring, give Celes Sprint Shoes in place of Earring, give Sabin 2
+Earrings.
+
+Dadaluma:
+Dispatch/Aura Bolt/Drill/Ice.  Ignore his backup.  You shouldn't have to heal.
+
+Get the chests in Terra's room, talk to Terra, get the Magicite, remove Cyan's
+relics, talk to Locke in the doorway.  When prompted to make a party, put in
+Edgar and Sabin.
+
+Remove Celes's Earring, give Edgar Earring in place of Hyper Wrist, give Locke
+Sprint Shoes, equip Locke optimum, give Locke Kirin, give Edgar
+Siren, give Sabin Ramuh, give Celes Stray.
+
+You should be equipped as follows:
+Edgar- Siren- Earring/Hero Ring
+Sabin- Ramuh- 2 Earrings
+Locke- Kirin- Genji Glove/Sprint Shoes
+Celes- Stray- any/any
+
+Time: 2:05
+
+Flash Iron Fists, Mind Candies, and Red Fangs, Drill/Aura Bolt/Fight the
+Vultures.  Go to Jidoor, go to the item shop, buy 31 Echo Screens.  (See the
+"Joker Doom" section if you don't know why).  Go to the big house at the top,
+talk to Impresario, read the letter, go south to the Opera House.  Have Celes
+Cure spell everyone to full HP before you go in.
+
+Time: 2:08
+
+------------------------------------------------------------------------------
+Opera House
+------------------------------------------------------------------------------
+
+Have Locke go straight to Celes's room.  Have Celes go straight to the stage.
+The lines are "Oh my hero;" "I'm the darkness;" "Must I."  Have Locke get the
+note, talk to Impessario, and then go to the right and up.  Push the switch on
+the far right.  Go back around to the left and over the stage.  Try to dodge
+the rats, but don't worry too much about it.  If you get attacked and there is
+only one red rat, Flash the group and immediately have Sabin Aura Bolt.  If
+there are two red rats, Flash the group, have Sabin Aura Bolt and Locke fight,
+and wait until more gray rats come.  When they do, Flash again.  I always run
+into almost every rat, and that used to annoy me.  However, several times I've
+had Sabin learn Fire Dance from the last battle before Number 128, so I've
+become appreciative of the experience the rats give.  Before you fight Ultros,
+give Edgar Hyper Wrist in place of Earring.
+
+Ultros:
+Aura Bolt/Drill/fight.  You shouldn't have to heal.
+
+When the Airship lands, go northwest to Vector.  Smoke Bomb everything.
+
+Time: 2:28
+
+------------------------------------------------------------------------------
+Vector
+------------------------------------------------------------------------------
+
+Go into the skinny building, don't pledge allegiance, kill the guards, and
+talk to the lady again for a free heal.  Go to the armor shop to the left, buy
+2 Bard's Hats.  Give Sabin Atlas Armet/Hyper Wrist, give Celes 2 Earrings,
+give Locke Peace Ring in place of Genji Glove and let him equip himself
+optimum, equip Celes optimum, put Locke in the back row.  Go to the right and
+talk to the guy behind the crate.  Jump up on the crate and go into the
+factory.
+
+In the factory, get Thunder Blade and Remedy (second and third chests you pass
+close to).  First go down and through the portal that leads to the ladder,
+then just follow the conveyor belts to Kefka.  Flash Pipsqueaks and multiple
+Flans, on single Flans (which increase in numbers when you kill them), Pummel,
+then Flash, then call Ramuh.  Ramuh DOES NOT retarget, so make sure you don't
+choose Ramuh until the Flans he will hit are on the screen.  Ramuh/Flash all
+other encounters.  Before fighting the Espers, remove Sabin's Esper, give
+Celes Ramuh, and Cure.  Talk to the Esper on the left.
+
+Espers:
+Have Locke summon Kirin his first turn and then Cure when necessary, have
+Celes Runic (see "Runic" under "Miscellaneous" if you aren't familiar with the
+command), have Edgar Drill, have Sabin Pummel.  If you're feeling risky, Celes
+can Ice Ifrit every now and then, but you do run the risk of being killed if
+you don't have Runic guard.
+
+Talk to the Esper on the left and then the one on the right.  Pick up the
+magicite that's blocking the door, but don't bother with the other one.
+Flash/Ramuh any party that has at least two non-Rhinox monsters.  Aura Bolt/
+Drill Rhinoxes.  Make sure you get the Break Blade inside the wall of the
+bottom left platform in the room right before Number 024.  Before fighting
+Number 024, remove everybody's weapons.
+
+Number 024:
+Have Sabin Suplex, have Edgar Drill, have Locke try to Steal, have Celes start
+by summoning Ramuh, then use Ice once unless somebody is muddled or almost
+dead, then Cure and punch anybody who gets muddled.
+
+After Celes leaves, go down on the elevator, make sure everybody's healthy,
+give Edgar Shoat, give Locke Phantom, give Sabin 2 Earrings, put Sabin in the
+lead.
+
+You should be equipped as follows:
+Sabin- (no Esper)- 2 Earrings
+Edgar- Shoat- Hero Ring/Hyper Wrist
+Locke- Phantom- Sprint Shoes/Peace Ring
+
+Time: 2:44
+
+Talk to Cid.  Fire Dance will take out any number of Mag Roaders, Flash will
+take out any number of red Mag Roaders, Aura Bolt and Drill will take out
+single Mag Roaders.  It helps a lot to know Fire Dance when you fight Number
+128.  During combat, when it won't slow the battle down (generally while the
+animation for the attack that finishes off the opposing party is on the
+screen), put Echo Screen in the top space in your item inventory.
+
+Number 128:
+Have Edgar Drill the middle section, have Sabin Fire Dance, have Locke group
+Cure every turn.  If you don't know Fire Dance, Aura Bolt: it averages out to
+about as much damage to the middle section as Bolt, and it's nice to have the
+blades go away for a little while.
+
+Don't bother to heal before the battle against the Cranes: you get your HP and
+MP filled for you anyway.  Set Battle Mode to Wait.
+
+Cranes:
+Have somebody other than Setzer use an Echo Screen, then have Setzer Joker
+Doom.  (See the Joker Doom section under "General Tips" for more detail).
+
+Maduin Scene:
+1) Go to the gate.
+2) Talk to Madonna.
+3) Go to the gate.
+4) Talk to the Elder, then the Esper in the door, then go to the gate.
+
+Make a party of Terra/Edgar/Setzer/Sabin with Setzer in the top right spot,
+unequip those not now in your party.  Put Setzer in the back row, give Setzer
+Phantom, give Setzer Running Shoes, give Terra Sprint Shoes/Running Shoes,
+equip Terra optimum.  Fly to Narshe.  Take a few steps in, and you will be
+taken to the Elder's house.  Take the Elixir from the Elder's clock.  Fly to
+the sealed cave in the southeast corner of the map.  Go in through the
+imperial camp.
+
+Time: 2:59
+
+------------------------------------------------------------------------------
+Sealed Cave
+------------------------------------------------------------------------------
+
+Before the banquet, Setzer needs to have at least 55 magic points towards
+Vanish and Edgar needs to have at least 70 magic points towards Doom.  This
+means you want to pick up 19 magic points in the Sealed Cave.  Therefore,
+don't run and don't be afraid to go a little out of your way to get chests.
+However, I wouldn't suggest getting the chest in the first room because it is
+useless and sells for 1 GP, and the enemies in the first room all give 1 magic
+point.  I usually get X-Potion, Elixir, Tempest, and the three buried
+treasures near the bottom of the staircase.  Aura Bolt/Drill single Zombones,
+Echo Screen/Joker Doom everything else.  (FYI, single Zombones and any party
+with Ings give 2 magic points, everything else (including, strangely, two
+Zombones) give 1).  To get through the cave, start by going down and then go
+right.  Don't push any switches unless you can see a dead end and there aren't
+any more switches between you and that dead end.  When you enter combat with
+Kefka, just fight.  If you've been keeping track of how many magic points
+you've picked up, get up to 17 before go out through the extra door that has
+appeared in the last room.
+
+Buy 41 Smoke Bombs on your way out of the Airship.  Get Edgar up to 70 magic
+points towards Doom and Setzer up to 55 towards Vanish, then take a Chocabo to
+Vector.  (If you have nowhere close to enough magic points, just walk to
+Vector).  (FYI, there are a couple of random battle formations that will give
+2 magic points here, the best of which is a bunch of Chicken Lips, because
+they can be taken out with one double-Earring boosted Fire Dance.  A group of
+Chicken Lip, Ralph, Joker, Wyvern will give 3 magic points).
+
+Time: 3:11
+
+------------------------------------------------------------------------------
+Imperial Banquet
+------------------------------------------------------------------------------
+
+Talk to all 24 soldiers, Drill/Aura Bolt the ones that want to fight, and get
+all the chests.  My method is to go around to the left first, up over the top,
+back down on the right side, and then out front.  The only red guard you need
+to talk to is the one in the library.  Don't go into the last door as you're
+going back down the right side.  Equip everyone but Terra empty, give Terra
+Gale Hairpin/Sprint Shoes, equip Terra optimum, give Terra Break Blade.  You
+should have plenty of time to do all of this before the timer expires.  (I
+generally have about a minute left after I talk to the last soldier).
+Ironically, this is the only part of the game when you are NOT pressed for
+time, since you have to wait for the timer to expire anyway.  At the dinner:
+toast hometowns, leave Kefka in jail, Celes is one of us, ask all 3 questions
+once each, tell him which one you asked first, the poison was inexcusable, the
+war's over, the Espers went too far, take a break and go to the right around
+the table and talk to the first red guard you come to, agree to fight them,
+Fire Dance/Flash/Slot them, go back to your seat, say yes when Ghestal asks to
+borrow Terra.  You'll know you did everything right if you get a Charm Bangle
+from the guard when you're leaving.
+
+Time: 3:21
+
+Give Locke Phantom, give Locke Charm Bangle/Sprint Shoes, equip Locke optimum,
+give Locke Thief Knife, organize your items, put Locke in the lead.  Go to
+Albrook.  Smoke Bomb all encounters.
+
+You should be equipped as follows:
+Locke- Phantom- Charm Bangle/Sprint Shoes- Thief Knife/any/Bard's Hat/any
+Terra- (no Esper)- Sprint Shoes/Gale Hairpin- Break Blade/any/Bard's Hat/any
+
+Go southeast to Albrook.  Talk to General Leo at the dock, then go to the inn.
+After the Locke/Celes scene, go talk to Leo again.  The first time you have
+control of Terra on the boat, talk to Leo.  The second time, talk to Leo, then
+Locke.
+
+Go to Thamasa, Smoke Bombing all encounters.
+
+Time: 3:28
+
+------------------------------------------------------------------------------
+Thamasa
+------------------------------------------------------------------------------
+
+Go to the weapons shop.
+You will still need the weapons and armors you have equipped, which should
+include 1 Break Blade, 1 Thief Knife, and 2 Bard's Hats.  Guardian, Drainer,
+and Thief Knife only fetch 1 GP.
+You will still need 1 Drill.
+You will still need 3 Sprint Shoes, 1 Charm Bangle, 1 Back Guard, 1 Gale
+Hairpin, 1 Hyper Wrist, 1 Hero Ring, 3 Earrings, 2 Running Shoes, 1
+Tintinabar, 1 Sniper Sight.  Genji Glove only fetches 1 GP.
+Sell all weapons, armors, relics, and tools not listed above.
+Buy 5 Ice Rods and as many as 13 Thunder Rods.  It's fine to spend all of your
+money, but 13 Thunder Rods is plenty, and if you have some money left over you
+won't need to sell anything later.
+
+Go to Strago's house and talk to Strago.  Go to the inn and sleep.
+
+In the burning house, give Strago Running Shoes/Back Guard.  Whenever you have
+a choice between two doors, pick the one on the right.  Try to dodge the
+flames.  If you're attacked, Aqua Rake or Smoke Bomb.  While Aqua Rake or
+Smoke Bomb animation is on the screen, arrange the top spots of your inventory
+to be Smoke Bombs, Echo Screens, Thunder Rods, and Ice Rods, in that order.
+Get both chests- a Flame Rod and an Ice Rod.  Give Terra 2 Earrings, give
+Strago Earring/Hero Ring (or vice versa).
+
+Flame Eater:
+Have Strago and Terra single target Ice Rod him once each and he will die.
+
+Time: 3:41
+
+Go to the cave in the west, Smoke Bombing everything.
+
+------------------------------------------------------------------------------
+Esper Cave
+------------------------------------------------------------------------------
+
+Go right whenever you can.  Often it won't look like you can go right , but
+you can squeeze in next to the wall.  Smoke Bomb everything.  Skip the chests.
+When Relm jumps out, you should be able to get through the door ahead of her.
+
+Ultros:
+Have Strago single target Thunder Rod once, have Terra morph and single target
+Thunder Rod once.  When Relm shows up, sketch until she doesn't miss.  If you
+spent almost all of your money, have Locke try to steal a White Cape.
+
+Continue through the cave, fall in the closest hole in the ground and go up
+and right across the bridge to the Espers.
+
+When you control General Leo, go straight to Kefka and use Shock until he
+dies.
+
+Time: 3:56
+
+Get in the Airship, make a party of Edgar/Setzer/Celes.  Have the guy unequip
+those not now in your party.  Give Edgar Shoat, give Setzer Phantom, equip
+everybody optimum, give Celes Running Shoes/Sprint Shoes, give Edgar Back
+Guard/Gale Hairpin, give Setzer Running Shoes/Earring.  Find the Floating
+Continent, making the same party with Celes in the top left spot, Setzer in
+the bottom right, and Edgar in the top right.
+
+------------------------------------------------------------------------------
+IAF
+------------------------------------------------------------------------------
+
+Echo Screen/Joker Doom.  Have Celes Cure between battles to keep HP up.
+Absolute Zero in particular hurts quite a bit, but if you equipped, you make
+your commands quickly, Battle Mode is on Wait, and you start each battle with
+full HP, you should be able to make it by them.  Edgar ought to learn Doom and
+Setzer ought to learn Vanish shortly before Ultros shows up.  When this
+happens give Setzer Carbunkl, give Edgar Unicorn, give Celes Shoat.
+
+Ultros:
+Vanish him, then cast Doom on him.
+
+IAF:
+You should be able to Echo Screen/Joker Doom him.  I believe he has an attack
+that can mess this up: if it fails, just Thunder Rod his middle section until
+he dies.
+
+------------------------------------------------------------------------------
+Floating Continent
+------------------------------------------------------------------------------
+
+Time: 4:04
+
+As soon as you get to the Floating Continent, give Celes Charm Bangle in place
+of Running Shoes, give Setzer Earring in place of Running Shoes.  Cure, save.
+Don't get Shadow.  Push every switch you come to, and to go in the bottom left
+transporter when you come to a place where there are three transporters right
+next to each other.  If you don't know how to navigate the Floating Continent,
+my best advice is to save at the beginning and just reset every time you get
+lost.  If you do everything right, the Floating Continent isn't particularly
+long.  Smoke Bomb everything except Ninjas.  One Thunder Rod from Setzer will
+kill a party of Ninjas.  If it's a preemptive attack, you should have time to
+Joker Doom them.  There are two reasons I can think of to Joker Doom rather
+than Rod: 1) They are accompanied by a Wirey Dragon (which Thunder Rod won't
+kill); 2) You have less than eight Thunder Rods left.  Two Skeans will wipe
+out your party.  Don't get any chests, don't go to the second save point, keep
+HP up, and just go straight to Atma.
+
+AtmaWeapon:
+Vanish/Doom.
+
+Don't worry about the chest.  Have Setzer single target Thunder Rod Naughties.
+
+Nerapa:
+Have Setzer single target Thunder Rod once.
+
+Don't wait, just jump.  You should have about 4 minutes left on the timer.
+
+------------------------------------------------------------------------------
+Solitary Island
+------------------------------------------------------------------------------
+
+Give Celes Shoat, give Celes Charm Bangle/Sprint Shoes, equip Celes optimum.
+Feeding Cid should be faster than letting him die: every time you go to the
+beach, pick up all of the fast fish, as well as all the medium fish you can
+get to quickly.  Don't touch the slow ones.  Get on the raft.
+
+Time: 4:25
+
+Don't even go into the town where Sabin is.  Smoke Bomb all encounters.  Go
+north to the forest near the Phoenix Cave and get a Chocabo.  Ride it to
+Nikeah.
+
+------------------------------------------------------------------------------
+Nikeah
+------------------------------------------------------------------------------
+
+Go to the merchant in the upper left.  Sell stuff (Thunder Rods and Czarina
+Ring get good money) until you have 20000 GP.  Sell 1 GP items (Magicite,
+Guardian, Genji Glove, Memento Ring, Thief Knife (keep one Thief Knife),
+X-Ether, X-Potion) until the units digit of your GP total is not a factor of
+Edgar's or Setzer's level.  They should be between Celes's level and two
+levels higher- for me they're always between 16 and 18.  You have some margin
+for error, and if you're worried, just make the units digit 0.  (You're doing
+this because Dullahan, in Daryl's Tomb, immediately uses Level ? Pearl on you.
+Level ? Pearl Pearls (and, considering the level you're on, kills) any
+character whose level is divisible by the last digit in your current GP.  If
+it kills Edgar or Setzer, you will need to bring him back to life before you
+can Vanish/Doom Dullahan.  While you're doing this, Dullahan will start doing
+other annoying stuff.  Neither your level nor the units digit in your GP total
+will change between here and Daryl's Tomb, so you have the opportunity to
+ensure that the battle against Dullahan will be quick and easy).  Buy 2
+Enhancers.  Go to the cafe and talk to the bandits.  Talk to Edgar until you
+sneak aboard the boat- he starts right above the cafe.
+
+------------------------------------------------------------------------------
+South Figaro
+------------------------------------------------------------------------------
+
+Go into the inn by way of the cafe and talk to Edgar again.  Leave town.
+
+Go to the cave to the west, Smoke Bombing all encounters.
+
+Time: 4:30
+
+------------------------------------------------------------------------------
+Cave to Figaro Castle
+------------------------------------------------------------------------------
+
+Smoke Bomb everything, but if you get Muddled, run: the Smoke Bomb might have
+no effect.  Don't get any chests in the cave.  In the castle, in the room with
+three doors, get the Gravity Rod and the Crystal Helm that are right below
+where you enter.  Skip the other chests.  Go through the middle door, and
+before you talk to Edgar, give Celes Earring/Running Shoes, put her in the
+bottom space, and equip her optimum.  (Running Shoes are very important: they
+not only increase speed, but they also protect against the Tentacles' primary
+method of attack).  Talk to Edgar.
+
+Tentacles:
+First have Edgar Gravity Rod the bottom left Tentacle.  After that, if Edgar
+gets a chance to do anything, have him Cure Celes.  Group Fire Rod the
+Tentacles once with Celes.  The bottom left one will die.  Group Ice Rod the
+Tentacles four times with Celes.  The rest will die.
+
+Give Celes Sprint Shoes/Charm Bangle, give Edgar Running Shoes/Gale Hairpin,
+put Celes in the lead and Edgar in the second space.  Fenix Down Edgar if he's
+dead, Cure up to full health.  Go to the engineer, Smoke Bombing all
+encounters.  Have the engineer take you across the mountains.
+
+Go to Kohlingen, Smoke Bombing all encounters.  Talk to Setzer in the inn.
+Give Setzer Running Shoes/Back Guard, give Setzer Carbunkl, give Edgar
+Bismarck, equip Setzer optimum.  Go to Darryl's Tomb, Smoke Bombing all
+encounters.
+
+Time: 4:38
+
+------------------------------------------------------------------------------
+Darryl's Tomb
+------------------------------------------------------------------------------
+
+Smoke Bomb all encounters.  I'll call the room with six doors the entry room.
+When you get there, go through the top right door first.  Push A at the
+tombstone, go through the door, hit the switch.  Go back to the entry room.
+Go to the bottom right door.  Get the chest.  Go back to the entry room.  Go
+to the bottom left door.  Skip the Czarina Gown at the bottom of the stairs,
+but get the other chests.  The Experience Egg is through the wall to the
+right.  Push the switch.  Go back to the entry room.  Go through the bottom
+middle door, push the switch, go across on the turtle.  Skip the save point
+and the chest above it with the monster in it.  Get the Man Eater.  Go up to
+the tombstone and push A.
+
+Dullahan:
+Vanish/doom.
+
+------------------------------------------------------------------------------
+With the Airship
+------------------------------------------------------------------------------
+
+Bahamut would be nice if you were to get him before the dinosaur forest, but
+he isn't necessary.  If you're attacked by Doomgaze, Vanish/Doom him.  I write
+assuming you don't get Bahamut because I never do.  If you do, though, then
+teach Edgar Flare in the dinosaur forest, and then when you fight Kefka, have
+him Flare rather than Drill.
+
+As soon as you have the Airship, go to the Coliseum in the northwest.  Equip
+Edgar optimum, give Edgar Break Blade, equip Setzer optimum.  Save.
+
+Time: 4:45
+
+Go in, bet Tintinabar, choose Edgar.  Wait for Edgar to attack and Break Dark
+Force, cast Break on Dark Force, or cast Doom on Dark Force.  If you lose
+(odds are good that you will), reset.
+
+Fly to the dinosaur forest north of the Veldt.
+
+Equip Edgar optimum, give Edgar Experience Egg in place of Gale Hairpin, give
+Setzer Experience Egg in place of Back Guard, give Celes Back Guard/Gale
+Hairpin, give Celes Maduin, give Setzer Stray.
+
+You should be equipped as follows:
+Celes- Maduin- Back Guard/Gale Hairpin
+Edgar- Bismarck- Experience Egg/Running Shoes
+Setzer- Stray- Experience Egg/Running Shoes
+
+Time: 4:46
+
+Since your goal in each fight is to get off two moves before dying, Back
+Guard, Gale Hairpin, and Running Shoes are your most helpful relics.
+Generally, I almost always beat single Tyrannosaurs, but I'm about 50-50
+in Pincer Attacks and against Brachosaurs.  Fight Tyrannosaurs and
+Brachosaurs, Vanish/Dooming them, until you run out of MP.  Tent.  Repeat.
+Save alot- I save after every battle.  If you're pincer attacked, try to get
+off a Joker Doom.  To ensure that everyone gains levels at the same rate,
+twice you will have to switch which character does not have an Experience Egg.
+You want to get everybody to about level 33, which should take about eighteen
+battles.  If nobody dies and everybody starts with the same experience, you
+want to switch around equipment after the sixth and twelfth battles.  You do
+not want Celes and Setzer to both be on level 35 in Kefka's Tower, so try not
+to get them higher than level 33.  MAKE SURE YOU GIVE CARBUNKL BACK TO SETZER
+AND SHOAT BACK TO CELES TOWARDS THE END OF THE FOREST LONG ENOUGH FOR CELES TO
+LEARN DOOM AND SETZER TO LEARN WARP.
+
+When all of your characters are around level 33, Setzer knows Warp and Celes
+knows Doom, fly to Narshe.  Make Edgar the leader and equip your party as
+follows:
+Edgar- Charm Bangle/Sprint Shoes
+Celes- Running Shoes/Gale Hairpin
+Setzer- Running Shoes/Back Guard
+(Celes's and Setzer's setups are interchangeable).
+
+Time: 4:56
+
+------------------------------------------------------------------------------
+Narshe
+------------------------------------------------------------------------------
+
+Go to the moogle village via Locke's secret entrance.  Smoke Bomb or Warp all
+encounters.  Talk to Mog.  Push A at the wall behind him for the Moogle Charm.
+Give Mog Moogle Charm/Sprint Shoes, remove Celes's Esper, give Mog Shoat, put
+Mog in the back row.  Warp.
+
+Time: 4:59
+
+Fly to Phoenix Cave.
+
+------------------------------------------------------------------------------
+Phoenix Cave
+------------------------------------------------------------------------------
+
+Make party one Mog and party two everybody else with Edgar as the leader.  Mog
+should be the one to stand on the first switch.  (The party that stands on the
+first switch takes more steps in the cave.  Since Mog has the Moogle Charm,
+you want this to be him).  Skip the chests, Echo Screen/Joker Doom parties
+with Phases in them, Smoke Bomb or Warp everything else, don't fight the
+dragon, send Mog to get Locke.
+
+Make a party of Locke, Mog, Setzer, Celes.  Fly to Narshe.
+
+Time: 5:06
+
+------------------------------------------------------------------------------
+Narshe
+------------------------------------------------------------------------------
+
+Go to the weapons shop.  Sleep in the bed unless your MP are full.  Get the
+Esper Ragnarok.  Give Celes Ragnarok, give Locke Phoenix, equip Locke optimum,
+equip Mog optimum.  Go back through the caves to Tritoch, dodging the dragon.
+
+Tritoch:
+Vanish/Doom.
+
+Give Setzer Tritoch.  Go back to the dragon.
+
+Dragon:
+Vanish/Doom.  If he freezes one of the pieces of this combo, you can try to
+Echo Screen/Joker Doom him.
+
+Warp.
+
+Fly to the desert near Maranda.  Remove the Moogle Charm from Mog, give Locke
+Sniper Sight.
+
+Time: 5:10
+
+Walk around the desert.  Have Locke fight Cactrots.  (Chocobop is your only
+other attack that can kill them).  If you choose, you can save after every
+battle, and reset the game whenever you're attacked by a Hoover.  Hoovers can
+be Doomed, but it will only hit 2/3 of the time.  You can Vanish them first to
+avoid missing.  Once Mog learns Doom, though, it's not worth your time to use
+Vanish.  Cure spell when your HP get low.  When Mog knows Doom, give him
+Phantom.  Fight until Setzer knows the 3 spells, Locke knows Life3, and Celes
+knows Ultima.  (Setzer should come last).  When Locke knows Life3 and Mog
+knows Vanish, give Locke Phantom.
+
+Give Mog Moogle Charm.  Tent.  Fly to Fanatics' Tower.
+
+Time: 5:17
+
+------------------------------------------------------------------------------
+Fanatics' Tower
+------------------------------------------------------------------------------
+
+Skip the first and third doors.  Get the Genji Shield and the Force Armor in
+the second and fourth doors and the Gem Box in the room at the top.  Give
+Celes Gem Box/Earrings, give Setzer 2 Earrings, give Locke Back Guard/Gale
+Hairpin, give Setzer Man Eater/Force Shield/Force Armor/Bard's Hat, give Locke
+Thief Knife.
+
+You should be equipped as follows:
+Celes- (any Esper)- Gem Box/Earring- Enhancer/any/Crystal/any
+Setzer- (any Esper)- 2 Earrings- Man Eater/Force/Bard's Hat/Force
+Locke- Phantom- Back Guard/Gale Hairpin- Thief/Flame/Bard's Hat/any
+Mog- (any Esper)- Sprint Shoes/Moogle Charm- any/any/any/any
+
+Magi Master:
+Have somebody (ideally Mog) Berserk the Magi Master before you do anything
+else to him.  Have Locke Life3 himself.  Have Mog Bio, have Locke Fire3, have
+Celes Ultima, have Setzer Bolt3.  You shouldn't have to heal.
+
+Leave the tower.
+
+Time: 5:22
+
+Save, give Locke Unicorn, Tent, fly to Kefka's Tower.
+
+Mog should know Vanish/Doom, Locke should know Vanish/Fire3/good heal magic,
+Edgar should know Doom, and Celes and Setzer should have good attack magic.
+
+------------------------------------------------------------------------------
+Kefka's Tower
+------------------------------------------------------------------------------
+
+Make party one Edgar/Locke with Edgar (who should still have Charm Bangle/
+Sprint Shoes) in the lead, party two Mog, party three Celes/Setzer with Celes
+in the lead.  (Mog is party two rather than party one because party two takes
+more steps, and Mog has Moogle Charm).  (If Celes and Setzer are both on
+levels divisible by 5 and Edgar is not, switch Edgar and Celes).
+
+While in the tower:
+Edgar and Locke should Vanish/Doom Gt Behemoths.  I've never had them run into
+a Land Worm, but if they do, Drill/Fire3.  Smoke Bomb everything else
+(including Gt Behemoth's buddies after Gt Behemoth is gone).  If one of them
+gets Imped and you have less than 2 Green Cherries, between battles, equip
+White Cape, go back to the main menu, and then re-equip the previous relic.
+Celes and Setzer should Echo Screen/Joker Doom Land Worms and Gt Behemoths,
+and Warp or Smoke Bomb everything else.
+Do not fight dragons or Atma.
+Do not get any chests I don't specifically say to get.
+
+Remove Charm Bangle from Edgar.  Switch parties.
+
+Have Mog get the Minerva (first chest he comes to).  In the room with conveyor
+belts, two chests, and three doors (including the one you came in through),
+get both the chests (force stuff), go in the middle door first and step on the
+button to move the platform.  Then go back out and into the door on the right.
+Go stand on the button by the big door.  Switch parties.
+
+Give Celes Charm Bangle/Sprint Shoes, equip her optimum.  Don't go into the
+first door you pass on the left.  In the room that looks like it's from the
+Magitek factory, get the Hero Ring only if Edgar knows Flare.
+
+Inferno:
+Echo Screen/Joker Doom.
+
+Two rooms after Inferno, there will be a chest on the right with a Megalixir.
+Get it.  Go to the chest with the red star and push A.  Continue on, Go to
+the switch near the big door and step on it: the door will open.  Go back to
+the stairs.  Remove the Charm Bangle.  Switch parties twice.
+
+Go to the stairs across from Celes.  Switch parties twice.
+
+Give Edgar Charm Bangle, give Locke Thief Knife/Force Shield/Force Armor/
+Bard's Hat, equip Edgar optimum.  Just go through the tower, through the door
+that the other two parties opened, go left and then down, push the anvil over
+the edge.  Go back and step on the switch.  Remove the Charm Bangle.  Switch
+parties.
+
+Go through the door Edgar went through, go right, push the anvil over the
+edge, go back and stand on the switch.  Switch parties.
+
+Give Celes Charm Bangle.  Go through the door, step on the switch in the
+middle.  It will make passages going both up and down.  Go down first, step on
+the switch, then go up.
+
+Guardian:
+Echo Screen/Joker Doom.
+
+Time: 5:31
+
+Go to Poltergeist.
+
+Poltergeist:
+Echo Screen/Joker Doom.
+
+Tent.  Stay on the save point.  Switch parties.
+
+Give Edgar Charm Bangle.  Go fight Doom.
+
+Doom:
+Vanish/Doom.
+
+Tent.  Stand on the button.  Give Locke Running Shoes/White Cape, give Edgar
+Hero Ring/Hyper Wrist.  Switch parties.
+
+A few steps in front of Goddess, give Mog Gem Box in place of Moogle Charm.
+
+Goddess:
+Vanish/Doom
+
+Give Mog Moogle Charm in place of Gem Box.  Don't heal- the only way Mog
+should show up in the final battle is if you get hit by Calmness right before
+Kefka.  Kefka always opens with Fallen One, so healing Mog is useless.  Stand
+on the button.  Switch parties.
+
+Give Celes Gem Box/Earring, save, step on the button.
+
+Time: 5:36
+
+This is how I'm equipped for the final battle:
+Setzer- (any Esper)- 2 Earrings- Man Eater/Force/Bard's Hat/Force
+Celes- (any Esper)- Gem Box/Earrings- Enhancer/Genji/Crystal/Minerva
+Locke- Unicorn- Running Shoes/White Cape- Thief Knife/Force/Bard's Hat/Force
+Edgar- (any Esper)- Hero Ring/Hyper Wrist- Enhancer/Flame/Genji/Crystal
+Mog- (any Esper)- any/any- any/any/any/any
+(If you have Bahamut, Edgar gets 2 Hero Rings, and Flares instead of Drills).
+This setup works quite well, and if you're careful and a tiny bit lucky, you
+won't be seeing Mog.  Basically, you want Locke and Setzer to have very high
+M Evade, you want Edgar to have Flame Shield (mostly because Tier 3 uses
+Merton) and the best defensive equipment you have left over, and you want
+Celes to have Minerva.  The Running Shoes are usually unnecessary: they don't
+make much of a difference when you have more than two characters active.
+If people start dying, though, it's nice to have Locke's turn come up more
+quickly, so that's why he gets them.
+
+------------------------------------------------------------------------------
+Final Battle
+------------------------------------------------------------------------------
+
+It can take as little as 12 minutes from the final save until Kefka starts to
+crumble.
+
+Have Setzer/Celes/Locke/Edgar be your starting party.  You should be able to
+get this party by just selecting "End" without choosing any characters as long
+as Mog is on the bottom.  You always want Celes to be casting two Ultimas,
+which means you will have to Elixir her every other turn.  Have Edgar or Locke
+do this.  When everybody is running low on MP, Megalixir.  Mog isn't much
+good, so try to keep everybody alive.  You may be hit by any of the following
+status ailments: Imp, Petrify, Frozen, or the numerous effects of Train.
+Green Cherry imps, Soft statues, Fire magic frozen characters, and have Locke
+call Unicorn after Train.  If you get hit by Train a second time, use
+Remedies.  Edgar should also know the spell Remedy.  Echo Screens will also
+do, as Mute is the only effect of Train that you really need to worry about.
+
+Tier 1:
+Have Edgar Break the open hand, have Celes Ultima, have Setzer Fire3 the face,
+have Locke Fire3 the face when he's not healing, have Edgar Drill the face
+once the open hand is petrified.  Once the face dies, Ultima/Bolt3/Drill the
+fist.  Because of your M Evade you might not have to heal, but don't count on
+it.
+
+Tier 2:
+Have Edgar Mute the thing in the back.  If Mog came in (which would indicate
+that you're doing extremely poorly), have him Doom the thing in the top
+middle, then use Bio.  If you didn't lose anybody, have Edgar Doom instead.
+Have Celes Ultima, have Setzer Ice3 the bottom right thing, have Locke Fire3
+the bottom right thing when he has a spare moment, have Edgar drill the bottom
+right thing once his other duties are completed.  After the bottom right thing
+is dead, focus on the top right (having Setzer Bolt3), and then the thing in
+the back (having Setzer Bolt3).  Locke will probably still be using Fire3 more
+often than healing.
+
+Tier 3:
+If Mog is in, have him Bio the thing in front.  Have Celes Ultima, have Setzer
+Bolt3 the guy in the front, have Locke Fire3 the guy in the front if he has a
+spare moment, have Edgar Drill the front thing.  If Celes and Setzer are both
+Muted, have Locke call Unicorn.  As a precaution, you can have Locke Life3
+Celes- if she gets hit by Calmness, Kefka will take several times as long.
+
+Kefka:
+Bio won't hurt Kefka- Mog can only use items and fight.  The best thing to
+do with him is to have him Elixir anybody who is running low on magic.  If you
+have Thunder Rods left, he can use them.  If Mog dies, don't bother to
+revive him.  Love Sonata (for Elf Fire) is the best dance you have, but don't
+use it unless you're desperate and you know Kefka only has about 1000 HP left.
+Megalixir or Cure3 after Fallen One.  Have Celes Ultima, have Setzer Bolt3,
+have Locke Fire3 if he has a spare moment, have Edgar Drill.  If Celes and
+Setzer are both Muted, have Locke call Unicorn.
+
+Time: 5:51
+
+
+
+
+==============================================================================
+Credits
+==============================================================================
+
+MasterZED's Monster Statistics Guide was a great resource while I was putting
+this together.  Also, MasterZED's Slot guide taught me how to Joker Doom at
+will, which probably knocked about 15 minutes off my game time.
+
+Proscientia's 10-hour Challenge Walkthrough was a useful resource.  It gave me
+the idea of killing off Vicks and Wedge, and it was good to have something to
+check my strategies against.
+
+Thanks to everyone on the GameFAQs message board who told me what Battle
+Speed did.  I believe The nOOb Avenger was the first.
+
+Thanks to beaubeitscher for telling me about waiting at the title screen to
+skip the intro, and about avoiding the second and third battles in Narshe.
+
+Thanks to MeepleLard for the idea of using Ramuh in the factory.
+
+Thanks to my friend Josh for suggesting how to skip the relic tutorial.
+
+Thanks to assassin17 for help on various points, especially the Valiant Knife/
+Sniper Sight combo for Cactrots.
