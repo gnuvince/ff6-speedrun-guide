@@ -1,44 +1,48 @@
+#+STARTUP: indent
 #+TITLE: Final Fantasy 6 - Speedrun notes
 #+AUTHOR: gnuvince
-#+LATEX_HEADER: \usepackage{times}
+#+LATEX_HEADER: \usepackage{palatino}
+#+LATEX_HEADER: \usepackage{color}
+#+LATEX_HEADER: \DeclareTextFontCommand{\textbf}{\scshape\bfseries\color{blue}}
+#+LATEX_HEADER: \DeclareTextFontCommand{\emph}{\scshape\color{magenta}}
+
 
 * Leaving Narshe
-** Party management + Config
+** Config
+- *Terra*: back row
 - Bat. speed: 6
 - Msg. speed: 1
 - Cursor: Memory
-- Terra: back row
+
 ** Going to the cave
 *** First battle
-- Terra: bio blast
-- Vicks and Wedge: run away
+- *Terra*: bio blast
+- *Vicks* and *Wedge*: run away
 *** Avoid second battle
 - Avoid the middle of the road intersection near the items shop (walk
   right, up, then left) to avoid 2 battles
 *** Third battle
-- Vicks or Wedge: left guard
-- Vicks or Wedge: right Lobo (the one preventing running away)
-- Terra: bio blast
-- Vicks and Wedge: run away
+- *Vicks* and *Wedge*: left guard, right lobo; *Terra*: bio blast
+- *Vicks* and *Wedge*: run away
 *** Fourth battle
-- Vicks and Wedge: take out Vomammoth with fire blast (they prevent running away)
-- Terra: bio blast
-- Vicks and Wedge: run away
+- *Vicks* and *Wedge*: fire beam on Vomammoths; *Terra*: bio blast
+- *Vicks* and *Wedge*: run away
 *** Random battle(s) in mine
-- Terra: cast fire on all
-- Vicks and Wedge: run away
+- *Terra*: cast fire on all
+- *Vicks* and *Wedge*: run away
 *** Whelk
-- Terra: tek missile
-- Vicks and Wedge: bolt blast
-- Attack 4 times, then it will retreat
-- Wait (maybe heal Terra?)
+- *Terra*: tek missile; *Vicks* and *Wedge*: bolt beam
+- Attack 4 times, then Whelk will retreat into shell
+- Wait
 - Attack again
 - Victory [No XP, so no need to run away]
+
 ** Cave pursuit
-- Terra should be level 6; if not, grind (use fire)
+- *Terra* should be level 6; if not, grind (use fire)
   - Gives antidote to Terra
   - Locke will be level 8 (Terra's level + 2)
-- Don't save; don't grab chests
+- Don't save; don't open chests
+
 ** Moogle battle
 - Move Locke out of the way (down, then right), switch group
 - This is Mog's group, go down, then left.
@@ -47,11 +51,11 @@
 - Cling to the upper rock wall to avoid battle with the wolfman
 - Cross over beyond the South road
 - Wait until all wolves have cleared the way, but the last one
-- Go West one step, then south
+- When last wolf is at your height, go left one step, then down
 *** Boss battle
-- Mog and Kupan: attack Marshal
-- Kuku and Kutan: attack Lobos
-- Mog: drop equipment
+- *Mog* and *Kupan*: attack Marshal
+- *Kuku* and *Kutan*: attack Lobos
+- *Mog*: /equipment/ drop
 - Kill off Marshal
 ** Leave Narshe
 - Get out of Narshe
@@ -84,104 +88,210 @@
 - Go up, talk to guard
 - Go left, jump off ledge (auto)
 *** Leaving Figaro Castle
-- Use Edgar's auto crossbow to kill M-TekArmor
-- Steal with Locke
-- DON'T use Terra's fire, don't want to trigger cut scene
+- *Edgar*: auto crossbow; *Locke*: Steal; *Terra*: defend
+  - DO NOT use fire, don't want to trigger cut scene
 *** South Figaro
 - Go to the cave to the east
 - If there are lots of enemies (e.g. 2 bees, 3 bulby eyes), use
-  Edgar's auto crossbow
+  *Edgar*'s auto crossbow
 - Go to South Figaro
 - Buy 2 sprint shoes [3000 GP]
-- Terra: Relic +Sprint shoes
-- Put Locke & Edgar in the back row
-- Equip optimum on Edgar and Locke
+- *Terra*: /Relic/ +Sprint shoes
+- *Locke* and *Edgar*: back row
+- *Locke* and *Edgar*: /Equip/ optimum
 - Ride Chocobo to Mt Kolts [80 GP]
+
 ** Mt Kolts
 *** Goal
-- Edgar: level 10
-- Locke: level 9
-- Terra: level 8
+- *Edgar*: level 10
+- *Locke*: level 9
+- *Terra*: level 8
 - This makes Sabin level 11 (avg + 2)
 *** Walkthrough
 - Runaway from all battles until you get Atlas Armlet
 - Go behind rocks on the right in the cave to reach secret passage and
-  find Atlas Armlet; equip on Edgar
-- Go fight Vargas
-- Use Edgar's auto crossbow, Locke's steal ability and fire with
-  Terra on Vomamoths
+  find Atlas Armlet
+- *Edgar*: /Relic/ +Atlas Armlet
+- *Edgar*: auto crossbow; *Locke*: steal; *Terra*: fire on Vomamoths
 *** Vargas
-- Steal with Locke
-- Fire with Terra, Crossbow with Edgar
-- With Sabin, Pummel (←→←)
+- *Edgar*: auto crossbow; *Locke*: steal; *Terra*: fire
+- *Sabin*: Pummel (←→←)
 
 * Ultros 1
 ** Leaving Mt Kolts
 - Grab tent in the cave (to resell later)
 - Run away from all fights
 - Go to Returner's Hideout
+
 ** Returner's Hideout
 - Grab potion in the chest
-- Go talk to Banon
-- Talk to Locke + grab chest
-- Talk to Sabin and go north
-- Talk to Edgar
+- Go talk to *Banon*
+- Talk to *Locke* + grab chest
+- Talk to *Sabin* and go north
+- Talk to *Edgar*
 - Go to Treasure room and grab everything
   - Don't forget the hidden White Cape
-- Go Talk to Banon and tell him "NO" 3 times to get Genji Gloves
+- Go Talk to *Banon* and tell him "NO" 3 times to get Genji Gloves
 - <cut scene>
+
 ** Lethe River
 *** Goals
-- Edgar: Level 11
+- *Edgar*: Level 11
 *** Party management
-- Everyone: Backrow
-- Sabin: Equip OPTIMUM, Relic +Sprint shoes
-- Terra: Relic -Sprint shoes
+- *Everyone*: Backrow
+- *Sabin*: /Equip/ OPTIMUM; /Relic/ +Sprint shoes
+- *Terra*: /Relic/ -Sprint shoes
 *** Walkthrough
 - Get on the raft
 - Always select to go LEFT
 - Look for 2x Pterodron battle
-  - Edgar: Autocross bow (2x)
-  - Others: run away
-- Remove Mithril Pike from Edgar
+  - *Edgar*: Autocross bow x2
+  - *Others*: run away
 - Use 2nd save point
 *** Ultros
-- Sabin: Aura bolt x5 (↓↓←)
-- Edgar: Auto crossbow
-- Banon: Health, then defend
-- Terra: defend, then Fire after 5th Aura bolt
-  - This avoids Ultros dialog
-* Sabin's Scenario
+- *Sabin*: Aura bolt x5 (↓↓←)
+- *Edgar*: Auto crossbow
+- *Banon*: Health, then defend
+- *Terra*: defend, then Fire after 5th Aura bolt
+  - During this time: *Edgar*: /Equip/ -MithrilPike
+*** Choose scenario
+- Pick Sabin
+
+* Phantom Train
 ** Empire Camp
 - Go right (ignore cabin), then down to the Empire Camp
+
 ** Doma Castle
 *** Config
-- Cyan: Relic +Sprint Shoes
+- *Cyan*: /Relic/ +Sprint Shoes
 - Battle speed: 1 (faster counter attacks)
 *** Battle
-- Retort (SwdTech 2)
+- *Cyan*: Retort (SwdTech 2)
+
 ** Empire Camp
 *** Battles against Kefka
-- Use attack (a single attack will make him run)
+- *Sabin*: attack (a single attack will make Kefka run)
 *** Battle against 2 Templars + 2 Soliders
-- Heal before
-- Sabin: Relic +Black Belt (to counter)
-- Defend
-- Let Sabin counter attacks kill your enemies
+- *Sabin*: Front row
+- *Sabin*: Heal
+- *Sabin*: /Relic/ +Black Belt (to counter)
+- *Sabin*: Defend
+- Let Sabin's counter attacks kill the enemies
+
 ** Doma Castle
 - Go to the Throne Room
+- Cut scene
 - Get out of the Throne Room
 - Go right to your room
+
 ** Empire Camp
 *** Config
 - Battle speed: 6
 *** Joining Cyan
 - Talk to Cyan to engage battle
-- Sabin: attack (possibly Pummel?)
+- *Sabin*: attack
 *** M-TekArmor
-- Use fire blast on everything
+- *Sabin* and *Cyan*: fire beam
+
 ** Phantom Forest
 - Run away from all battles
-- Head directly for the train
 - Heal at the lake
+- Head directly for the train
+
 ** Phantom Train
+*** Walkthrough
+- Try to get out (Train will stop you)
+- Go left (don't talk to the ghosts)
+- Run away from battles
+- Second wagon: get in through the door, immediately get out, run away
+  from the battle, climb ladder, go left to jump wagons
+- Get in the wagon, activate switch, get out, lose back wagons
+- Get in the wagon, activate switch, go left
+- Skip wagon (walk around it), get in through the other end, grab the
+  earrings in the chest and get out
+- *Sabin*: /Relic/ -BlackBelt; /Relic/ +Earrings
+- Skip the small wagon
+- Enter locomotive, activate left and right switches, get out
+- Go to the locomotive chemney
+- *Sabin* or *Cyan*: Phoenix Down on GhostTrain (one-shot kill)
+
+* Sabin's Scenario End
+** Barren Falls
+- Head down, right, then up in the mountains to go to Barren Falls
+- In the fall, leave on Piranha alive and wait 1 minute, kill the
+  fish and you get to the boss
+- Boss fight: *Sabin*: AuraBolt, *Cyan*: Dispatch
+
+** Veldt
+- Run away from battles
+- Go to Mobliz, buy DriedMeat
+- Go south to the cave, fight all battles and hope to meet Gau
+- *Sabin* or *Cyan*: use DriedMeat on Gau
+
+** Serpent Trench
+- Run away from all battles
+
+** Nikeah
+- Sell: Remedy, Tents x2, Air Lancet, Black Belt, MithrilBlade, MithrilPike, Sleeping bag
+- Buy: Magus Hat x1, Smoke Bombs (Max)
+- *Cyan*: /Relic/ -Sprint shoes
+- Go to the boat
+
+* Kefka and Narshe
+** Lethe River
+- *Edgar*: /Relic/ +Sprint shoes
+- Use smoke bombs to run away from all battles
+- Go to Narshe
+
+** Narshe
+- Go left to the secret passage
+- Smoke Bomb away from all battles
+- Follow light path to avoid fight
+  - Fast strat available, but difficult to pull off
+- Get out of the cave and to Arvis' house
+
+** South Figaro
+*** Locke Sequence Break
+- Bring Locke at the height of the window
+- When guard walks down, go into the menu
+- *Locke*: /Relic/ +Sprint shoes
+- Get out of the menu while holding down UP
+- *Locke*: walk up (should walk through guard)
+- Go into the house
+*** Rescue Celes
+- Smoke bomb away from all fights
+- Grab chest on the right with Earrings
+- Go see Celes cutscene
+- Go down into secret passage
+- Grab RunningShoes and HyperWrist
+- Rescue Celes
+- Inspect sleeping guard to get the key
+- Get out of South Figaro
+*** Tunnel Armor
+- Go the cave
+- Grab chest with ThunderRod (Go to the North West stairs)
+- *Locke* or *Celes*: use Thunder Rod (one-shot kill)
+
+** Battle against Kefka
+*** Party management
+- Party 1: *Terra*
+- Party 2: *Celes*, *Edgar*, *Sabin*, *Cyan*
+- Party 3: *Gau*
+*** Walkthrough
+- Switch to second group
+- Go down, past the intersection
+- Go right, and wait between the two rock
+- When guard on your left has passed, go left, then down
+- Go left and wait
+- *Celes*: /Relic/ +Running Shoes
+- *Cyan*: /Relic/ +Hyper Wrist
+- *Sabin*: /Relic/ SprintShoes → Earrings
+- *Celes*: /Equip/ Optimum
+- When brown guard has passed, go down to Kefka
+*** Battle
+- *Celes*: Runic
+- *Sabin*: AuraBolt
+- *Edgar*: Auto Crossbow
+- *Cyan*: SwdTech 1
+
+* Dadaluma
