@@ -10,18 +10,15 @@
 * Acknowledgments
 I would like to extend a big and warm "thank you" to Essentia[fn::
 http://www.twitch.tv/essentiafour] and MisterMV[fn::
-http://www.twitch.tv/mistermv] for their inspiring runs and for
-sharing their notes with me.
+http://www.twitch.tv/mistermv] for their dedication to a wonderful
+game, for their inspiring runs and for sharing their notes with me.
 
 
 * Leaving Narshe
-** Config
-- *Terra*: back row
-- Battle speed: 6
-- Message speed: 1
-- Cursor: Memory
-
 ** Going to the cave
+- *Terra*: back row
+- *Config*: Battle speed: 6; Message speed: 1; Cursor: Memory
+
 *** First battle
 - *Terra*: bio blast
 - *Vicks* and *Wedge*: run away
@@ -51,19 +48,30 @@ sharing their notes with me.
 - Don't save; don't open chests
 
 ** Moogle battle
-- Move Locke out of the way (down, then right), switch group
-- This is Mog's group, go down, then left.
-- Go down until intersection at the bottom
-- Turn right
-- Cling to the upper rock wall to avoid battle with the wolfman
-- Cross over beyond the South road
-- Wait until all wolves have cleared the way, but the last one
-- When last wolf is at your height, go left one step, then down
+(See Figure \ref{fig:moogle-battle})
+- Red path
+  - Move Locke out of the way (down, then right), switch group
+  - This is Mog's group, go down, then left.
+  - Go down until intersection at the bottom
+  - Turn right
+  - Cling to the upper rock wall to avoid battle with the wolfman
+  - Cross over beyond the South road
+- Blue path
+  - Wait until all wolves have cleared the way, but the last one
+  - When last wolf is at your height, go left one step, then down
+
 *** Boss battle
 - *Mog* and *Kupan*: attack Marshal
 - *Kuku* and *Kutan*: attack Lobos
 - *Mog*: /equipment/ drop
 - Kill off Marshal
+
+#+CAPTION: Path to follow with Mog's group
+#+LABEL: fig:moogle-battle
+#+ATTR_LATEX: scale=0.5
+[[./images/moogle_battle.png]]
+
+
 ** Leave Narshe
 - Get out of Narshe
 
@@ -168,9 +176,8 @@ sharing their notes with me.
 - Go right (ignore cabin), then down to the Empire Camp
 
 ** Doma Castle
-*** Config
 - *Cyan*: /Relic/ +Sprint Shoes
-- Battle speed: 1 (faster counter attacks)
+- *Config*: Battle speed: 1 (faster counter attacks)
 *** Battle
 - *Cyan*: Retort (SwdTech 2)
 
