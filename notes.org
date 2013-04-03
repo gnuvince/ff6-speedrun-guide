@@ -154,7 +154,7 @@ game, for their inspiring runs and for sharing their notes with me.
 - <cut scene>
 
 ** Lethe River
-- *Everyone*: Backrow
+- *Everyone*: Back row
 - *Sabin*: /Equip/ Optimum; /Relic/ +Sprint shoes
 - *Terra*: /Relic/ -Sprint shoes
 - Always select to go LEFT
@@ -339,7 +339,7 @@ game, for their inspiring runs and for sharing their notes with me.
 *** Pre-battle
 - *Config*: Battle Mode: Active
 - *Celes*: /Skill/ cure all
-- *Sabin*: /Equip/ Optimum (should give him Fire Knucles + Buckler)
+- *Sabin*: /Equip/ Optimum (should give him Fire Knuckles + Buckler)
 *** Dadaluma
 - *Sabin*: AuraBolt; *Edgar*: Drill; *Celes*: Ice
   - Damage should stay below 1350
@@ -403,6 +403,151 @@ game, for their inspiring runs and for sharing their notes with me.
 - *Heal*: left guy
 - *Celes*: /Relic/ Sprint Shoes, Running Shoes
 - *Locke*: /Relic/ Sprint Shoes → Running Shoes
-- *Sabin*: /Relic/ Earrings x2
+- *Sabin*: /Relic/ Earrings, Earrings
 - *Celes*: /Equip/ Optimum
 - *Sabin*: Back row, leader
+- Go to Vector (run away from all battles)
+
+** Vector
+- Talk to the Returner sympathizer
+- Hop on left wooden box and run past the guards
+
+** Magitek Factory
+- Runaway from all battles
+- Go down two flight of stairs, and through the pipe
+- Grab Flame Sabe in the chest
+- Use the hook to cross
+- Go into the left pipe (don't open the chest)
+- Hop onto the conveyor belt
+- Grab Thunder Blade in the chest
+- Go down to the conveyor belt (don't open the chest)
+- Go left, grab Dragon Boots
+- Go back where you came from, hop onto conveyor belt
+
+** Ifrit and Shiva
+- Before battle: *Config*: Battle speed: 3
+- *All*: attack 5 times
+- *All*: run away during transition between Ifrit and Shiva
+- Grab Shiva magicite, go through the right door
+- *Config*: Battle speed 6
+- *Celes*: /Skill/ cure all (if necessary)
+- Go up the stairs
+- During battles:
+  - *Celes*: /Equip/ Flame Sabre
+  - *Edgar*: /Equip/ Thunder Blade
+  - *Sabin* or *Locke*: Smoke bomb
+
+** Number 024
+- *Locke*: Sleep
+- *Sabin*: AuraBolt; *Edgar*: Flash; *Celes*: Ice
+- *Locke*: Steal (we want the Rune Blade), then Ramuh
+- <cut scene>
+
+** Mine cart
+- *Sabin*: /Esper/ Shoat, front row
+- *Locke*: /Esper/ Phantom, front row
+- *Edgar*: /Relic/ Earrings → Running Shoes
+- *Locke*: /Relic/ Sneak Ring → Sprint Shoes
+- *Sabin*: /Relic/ Genji Glove, Atlas Armlet
+- *Locke*: /Equip/ Flame Sabre (can be done during a battle)
+
+*** Battles
+- *Sabin*: Attack
+- *Edgar*: Drill or Flash
+- *Locke*: Phantom in 3rd battle
+
+** Number 128
+- Attack the body (not the arms)
+- *Sabin*: Attack
+- *Edgar*: Drill
+- *Locke*: Attack (or Phantom if Vanish is lost)
+
+** Leaving Vector
+- Smoke bomb away from all battles
+
+** Cranes
+- *Locke*: Echo Screen
+- *Setzer*: Joker Doom
+
+* Terra's Origins
+** Esper World
+- Get Madonna
+- Talk to Madonna in her bed
+- Get out of the house
+- Talk to the Youth in the narrow passage
+- Talk to Madonna
+- Talk to the Elder
+- Talk to the guard at the door
+- Go left, then up and out of the village
+
+** Airship
+- *Party*: Locke, Terra
+- *Not in party*: /Unequip/
+- *Locke*: Back row
+- *Terra*: /Esper/ Madiun
+- *Locke*: /Equip/ Optimum, Thief Knife
+- *Terra*: /Equip/ Optimum, Flame Sabre, Magus Hat
+- *Terra*: /Relic/ Running Shoes, Sprint Shoes
+- Go to Narshe
+
+** Narshe
+- Walk up, be escorted to Banon
+- Grab elixir in the clock
+- Get out of Narshe
+- Get in the airship, go to the imperial base
+
+* Sealed Gate
+** Imperial Base
+- Go up to the stairs, and get out through the right
+- Go into the cave
+
+** Cave
+- If Lich: run away
+- *Locke*: Vanish, then Revivify
+- *Terra*: Revivify
+- *Locke*: Run away (make sure Terra casts the last Revivify)
+- *Terra*: Level 20
+*** Walkthrough
+- Go down through the door (ignore chest)
+- Grab Tempest in the chest
+- Go down through the door
+- Walk over the shifting bridges (ignore both chests)
+  - Go right, wait for shift
+  - Go on the "island", then down, and wait for shift
+  - Go left
+  - Wait for shift
+  - Go right, wait in the MIDDLE of the bridge
+  - Go down
+- Go right, activate switch on the 2nd high bridge
+- Go down, and grab Ether in the chest
+- Go right, through the "mini cave", then up, exit on the right
+- Grab elixir in the chest
+- Go right, down, right, up, activate switch
+- Go right, down into the door, and exit the cave
+- <cut scene>
+*** Kefka Battle
+- *Locke*: Smoke Bomb
+** Leaving the cave
+- /Item/ Warp stone
+- Go back to the airship
+- <cut scene>
+
+* Imperial Banquet
+** Party management
+- *Party*: Edgar, Terra, Sabin, Setzer
+- *Buy*: Warp Stone x2, Smoke Bomb x41
+- Get out of the ship
+
+** Vector
+- Go into the Chocobo Forest
+- Head over to Vector
+- Go to the top of the town to be invited in the castle
+- Follow Red Guard, go up to talk to Gestahl
+
+* Techniques
+** Joker Doom
+- *Anyone*: Echo Screen
+- Wait for the first smoke cloud
+- *Setzer*: Slot / 7-7-7 (use pause buffering to help you)
+
+** Reverse Joker Doom
