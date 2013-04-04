@@ -1,0 +1,763 @@
+Narshe
+battle speed 6, message speed 1, cursor memory
+Terra back row
+1st battle: Terra bio blast, Vicks and Wedge run away
+2nd battle: Vicks/Wedge fire beam guard on left and lobo, Terra bio blast, Vicks and Wedge run away
+3rd battle: Vicks/Wedge fire beam both vomammoths, Terra bio blast, Vicks and Wedge run away
+
+ Whelk: tek missile, beam x2, tek missile, go into shell, tek missile
+get Terra level 6 before Locke joins (shouldn't have to fight extra battles)
+
+Marshal: Mog attack Marshal once then remove weapon and shield, middle two moogles kill lobos
+
+M-tek Armor: autocrossbow x2, Locke steal
+
+Cave to South Figaro
+during battle, equip Locke mithril shield
+
+South Figaro
+buy 2 sprint shoes, equip on Terra
+Edgar, Locke back row
+
+Mt. Koltz
+run away until get atlas armlet, equip on Edgar
+get Edgar level 10, Locke level 9, Terra level 8 (have Terra and Locke run from 1 or 2 battles)
+*Terra gain 2 levels, Edgar and Locke gain 1 level
+save point: Terra cure others, sleeping bag
+
+Before Vargas
+Terra cure if needed
+
+Ipoohs: fire both, steal, autocrossbow
+*unequip Edgar's weapon during battle
+Vargas: autocrossbow, attack, fire
+Sabin joins at level 11
+
+After Vargas
+Terra cure only if really needed
+get tent
+
+Lete River
+beginning: Banon, Sabin back row
+equip Sabin optimum
+relic Sabin sprint shoes
+remove Terra's sprint shoes
+
+get Edgar to level 11 (fight pterodons x2 - autocrossbow x2, everyone else run)
+run from all other battles
+
+Ultros
+Banon health then defend, aurabolt, autocrossbow, fire after 5th aurabolt
+
+
+Sabin's Scenario
+
+When control Cyan
+relic sprint shoes
+battle speed 1
+
+Before fight templars
+relic Sabin black belt
+heal w/tonics
+Sabin front row
+
+Templars & Soldiers: Sabin defend, kill with counters
+Before next battle: heal Sabin, battle speed 6
+3 battles: attack soldiers, aurabolt Cadet if needed
+
+After battles
+both back row
+
+Phantom Forest-
+run from all battles
+get earrings
+relic Sabin white cape, earrings
+
+Ghost Train: suplex, fenix down
+
+Baren Falls
+kill all piranhas except one, defend and wait ??? seconds, kill last piranha, aurabolt/dispatch Rizopas
+
+Veldt
+run from battles until get dried meat
+
+Serpent Trench
+run from all battles
+right, then left path
+
+Nikeah
+sell remedy, softs (if any), tent x2, sleeping bag, mithril blade, air lancet, black belt **NOT dirk
+BUY MAGUS HAT! (3rd down)
+buy 31 smoke bombs (or as many as can) (4th down)
+NEED 100 GP LEFT FOR CHOCOBO
+REMOVE CYAN'S SPRINT SHOES!!!
+
+Terra's Scenario
+relic Edgar empty->sprint shoes
+smoke bomb all battles
+
+Locke's scenario
+relic sprint shoes
+get earrings, hyper wrist, running shoes
+
+after get Celes (in door)
+relic Celes running shoes
+equip Celes optimum
+Celes back row
+
+Tunnel Armor: thunder rod
+
+Narshe parties
+Terra	Cyan, Edgar, Sabin, Celes	Gau
+
+relic Sabin white cape->earrings; Cyan hyper wrist
+
+Kefka: runic, aurabolt, dispatch, autocrossbow
+
+
+party: Edgar (lead), Sabin, Cyan, Celes
+get elixir from clock, all treasures in shack
+
+Figaro Castle
+sell peace ring, wall ring
+buy flash, drill
+buy 15 fenix downs, 27 revivifies
+
+After get hero ring:
+relic Edgar earrings, hero ring; Celes empty->sprint shoes; Cyan atlas armlet
+equip Celes optimum
+
+Zozo
+get fire knuckle
+
+Before Dadaluma:
+Celes cure all
+battle mode active
+
+Dadaluma (1350 damage to counter)
+aurabolt, drill, ice; wait for boss's 2nd turn;
+aurabolt, drill, dispatch, aurabolt, drill, ice if needed
+
+get running shoes
+get all magicite
+
+After Zozo
+battle mode wait
+esper Locke siren, Edgar stray
+relic Locke empty->sneak ring; Sabin genji glove, atlas armlet
+equip Locke optimum
+Sabin front row
+
+Jidoor
+buy kaiser
+buy 21 echo screens
+need 250 for chocobo
+
+Before Ultros 2
+esper Locke Ramuh
+
+Ultros 2 (2550 HP)
+Sabin attack, Edgar drill, Locke summon Ramuh, Sabin attack
+
+Airship
+buy 2 warp stones
+heal at guy
+
+if Locke doesn't know sleep (fewer than 4 rat battles), esper Locke siren, Celes ramuh
+relic Celes running shoes, sprint shoes; Locke sprint shoes->running shoes; Sabin earrings x2
+equip Celes optimum
+Sabin back row, in lead
+
+Magitek Factory
+if Locke doesn't know sleep, fight one battle (flash, Celes summon ramuh)
+get flame sabre, thunder blade, dragoon boots
+*equip Celes flame sabre, Edgar thunder blade during battle
+
+Before Ifrit & Shiva
+Celes cure everyone
+esper Locke ramuh if doesn't have it
+battle speed 1?
+
+Ifrit & Shiva
+attack 5 times, run away
+
+After Ifrit & Shiva
+battle speed 6?
+Celes cure if needed
+
+get break blade
+
+Before No. 024
+heal only if low HP
+equip Edgar thunder blade, Celes flame saber (if didn't earlier)
+
+No. 024
+Locke sleep, Sabin aurabolt, Edgar flash, Celes ice, Locke steal then summon Ramuh
+
+Before minecart (when follow Cid)
+esper Sabin phantom, Edgar carbuncle, Locke siren
+Sabin, Locke front row
+relic Edgar earrings->running shoes; Locke sneak ring->sprint shoes; Sabin atlas armlet, genji glove
+equip Locke flame sabre (do during battle instead?)
+
+Minecart
+equip Locke flame sabre during battle
+Sabin attack, Edgar drill single enemies, flash multiple
+Sabin summon Phantom in 3rd battle (Edgar kill red mag roader first)
+Locke give tincture to Sabin after summon phantom
+                                                        
+No. 128
+Locke attack, Edgar drill, Sabin attack, summon phantom if lose vanish?
+
+Cranes
+joker doom
+
+Before go to Narshe
+party Locke, Terra
+unequip those not in party
+
+esper Locke phantom, Terra maduin
+Locke back row
+equip Locke optimum, thiefknife; Terra optimum, flame sabre, magus hat
+relic Terra runningshoes, sprint shoes
+
+get elixir from clock in elder's house
+
+Cave to Sealed Gate
+Locke summon phantom
+fight zombones, ings; run from all others (first 3 rooms)
+use revivifies to kill, Terra gets last turn, Locke runs away
+fight until Terra level 20 (9? battles, learns life at level 18)
+get ether, elixir
+
+after Kefka
+unequip phantom from Locke
+arrange items
+warp stone to leave
+
+After airship crash
+party Terra, Edgar, Sabin, Setzer
+buy 51 (or as many as can) smoke bombs, need 100 GP for chocobo
+
+Imperial Castle
+After timer starts:
+esper Setzer phantom, Edgar carbuncle
+equip all except Terra optimum
+relic Edgar hero ring, hyper wrist; Sabin earrings x2
+Setzer, Sabin back row
+
+mega armor: drill, aurabolt
+commandos: aurabolt, attack if needed
+
+After talk to all soldiers (before time runs out)
+relic Terra gale hairpin, back guard; Setzer sprint shoes
+remove fire knuckle from Sabin, break blade from Edgar
+arrange items
+
+SP Forces: joker doom
+
+In Vector cafe
+relic Locke running shoes->charm bangle
+use warp stone
+
+Albrook
+SELL STUFF!!!
+6 weapons, 3 relics
+sell rune edge, break blade, blizzard, thunder blade, tempest, fire knuckle, hyper wrist x2, dragoon boots, atlas armlet
+need 41,200 GP total
+buy white dress (2200)
+get warp stone in box at harbor (immediate right)
+
+Thamasa
+buy 5 ice rods, 8 thunder rods
+
+FlameEater
+Terra morph, 1 ice rod single-target
+
+Before Ultros
+equip Terra white dress
+relic Terra 2 earrings, Strago earrings & hero ring, Locke charm bangle->sneak ring
+Strago back row
+
+Ultros 3
+4 thunder rods, try to steal white cape
+
+re-equip charm bangle afterward
+
+Before enter airship (after Thamasa)
+esper Terra ramuh
+unequip Relm, Locke, Strago
+remove Strago's relics, Locke's charm bangle
+
+party: Terra (4th), Edgar, Setzer
+
+after 1st IAF battle:
+esper Setzer bismark, Edgar carbuncle
+equip Setzer, Edgar optimum
+
+IAF
+6 battles: Terra summon ramuh, Edgar/Setzer attack spit fire if needed
+heal if needed - give Terra tincture after cure 4 times
+esper Setzer phantom when learns fire (after 4th battle if doesn't die)
+
+Before Ultros
+remove Terra's weapon
+relic Terra running shoes, back guard; Edgar charm bangle, sprint shoes; Setzer running shoes, gale hairpin
+esper Setzer phantom (if haven't already)
+
+Ultros 4
+Setzer summon phantom, wait for Setzer to get turn,
+Edgar muddle Setzer, Terra attack Setzer, Setzer 7-7-bar
+
+Air Force
+Terra morph, thunder rod single-target
+
+Beginning of Floating Continent
+Terra cure if needed
+
+*try to equip flame sabre on Terra during battle
+Ninjas: Terra 1 thunder rod OR joker doom (need 1 thunder rod left for Nerapa)
+
+Atma Weapon: joker doom, equip flame saber on Terra if haven't already
+
+Escaping Floating Continent
+relic Terra earrings x2; Celes hero ring, earrings; Setzer running shoes->back guard; remove Edgar's charm bangle
+equip Celes optimum
+esper Celes stray
+
+Naughtys (12?): Terra bolt 2, Edgar/Setzer attack if needed
+*if Terra frozen, Setzer fire, or Celes use thunder rod if have extra
+give Terra elixir when needed (after 6?)
+
+esper Edgar shoat when learns warp
+esper Setzer siren, Celes phantom when learns vanish
+
+Nerapa: Celes or Terra use thunder rod; joker doom if don't have rods
+*GET CHEST - elixir
+
+Solitary Island
+esper Celes phantom
+equip optimum, remove flame sabre, equip magus hat
+relic sprint shoes, charm bangle
+
+lose time if take longer than 3:46 to save Cid
+
+Tzen
+buy sraphim
+pick up pearl rod (second chest, in middle chamber) - sells for 6000
+
+equip Sabin optimum
+relic Sabin back guard, gale hairpin
+arrange items
+
+Nikeah
+CHECK GP!!!!!
+sell revivifies (keep 1), flame sabre, pearl rod, thunder rods, boomerang, 
+	czarina ring, sneak ring, 2 earrings (keep 1)
+*sell 1-GP items so that GP ends with 0, 6, or 9
+	dirk (5), thiefknife, genji glove, tintinabar, memento ring
+need 29,000 GP (33,000 if buying 3 white capes)
+
+buy 1 enhancer, 3 bard's hats, 2 white capes (3 if didn't steal from Ultros 3)
+*need 80 GP for chocobo
+CHECK GP!!!!!
+
+Figaro Castle
+try to equip enhancer on Celes during battle
+get gravity rod, CRYSTAL HELM
+
+Before Tentacles
+put Sabin in 4th spot
+Celes cure if needed
+equip Celes enhancer (if didn't already), Sabin optimum (bard's hat)
+relic both earrings/hero ring, running shoes
+
+Tentacles
+Edgar gravity rod bottom left, Celes fire rod; Sabin/Celes ice rods, Edgar drill top right
+
+After Tentacles
+Celes cure if needed
+relic Edgar sprint shoes, gale hairpin; Celes earrings->charm bangle; Sabin hero ring->back guard
+
+Kohlingen
+esper Celes stray (if knows vanish), Sabin phantom; Edgar shoat, Setzer sraphim
+equip Setzer optimum
+
+Daryl's Tomb
+bottom left room, Edgar warp after hit switch
+get CRYSTAL MAIL
+
+Maranda Desert
+remove Celes's charm bangle
+if haven't already: esper Celes stray if knows vanish, Sabin phantom (only for summoning)
+summon phantom (Celes or Sabin)
+fight 3 battles (or until not all level 15)
+
+After:
+relic Celes charm bangle, remove Sabin's relics
+unequip Sabin all, Edgar's crystal helm->bard's hat
+remove Sabin's esper (if any)
+
+Maranda
+sell crystal helm, crystal mail
+buy tao robe
+talk to Lola
+
+find Doom Gaze: joker doom/vanish doom
+
+Narshe
+heal at bucket
+get Mog, moogle charm
+Edgar warp out
+
+party Edgar, Celes, Setzer, Mog
+relic Mog moogle charm, sprint shoes
+Mog back row
+
+fly to Zozo
+get thunder shield, ice shield, aegis shield, gold hairpin
+
+before Storm Dragon:
+equip Setzer optimum, thunder shield; Celes optimum; Mog optimum
+relic Setzer 2 white capes, Celes 2 white capes
+SAVE!!!
+
+Storm Dragon: joker doom or vanish/doom
+
+After get Cyan
+Setzer revive Celes, Edgar if dead (if knows life)
+unequip Edgar, remove relics
+Edgar warp out
+
+Figaro Castle
+after get Odin:
+esper Celes Odin
+equip Celes optimum (force armor)
+
+Blue Dragon: Celes (Setzer if preemptive) vanish, Odin
+
+party: Cyan (4th), Mog (3rd), Setzer, Celes
+esper Mog bismark, Celes stray
+
+fly to Doma Castle
+left door first
+Curley, Larry, Moe: joker doom
+get ice shield
+
+BEFORE Wrexsoul (when change party leaders): esper Mog raiden
+Wrexsoul: vanish both soulsavers, raiden
+get Alexander
+
+party: Mog (leader), Celes, Setzer
+equip Setzer ice shield
+relic Mog moogle charm->gold hairpin
+
+fly to Mobliz
+Phunbaba 1: Terra bolt 2 self
+Phunbaba 2: Setzer/Celes vanish, Mog raiden
+
+Phunbaba 3: vanish, raiden
+Phunbaba 4: vanish, raiden
+
+sleep in Mobliz (for Celes's MP in Jidoor)
+remove Mog's esper
+unequip Terra
+change party to only Mog
+
+fly to Triangle Island
+after Zone Eater, relic gold hairpin->moogle charm
+GET THUNDER SHIELD AFTER GETTING GOGO
+
+*check echo screens
+Gogo status slot, magic, item
+equip Gogo optimum
+Gogo back row
+warp stone out
+
+Phoenix Cave
+parties:
+Terra, Edgar, Sabin, Mog	Gogo, Celes (NOT LEADER), Setzer
+
+Group 1 (enters first)
+give magitek to both Edgar and Sabin
+
+Group 2
+relic Gogo charm bangle, back guard; Celes sprint shoes, gale hairpin
+esper Setzer raiden, Celes siren if knows float
+
+Red Dragon: Celes/Gogo vanish, Setzer raiden
+
+unequip all party members
+party: Locke, Setzer, Mog (leave 1st spot empty)
+equip Locke optimum, man eater, ice shield; Setzer optimum, aegis shield, force armor; Mog optimum, flame shield
+relic Locke gold hairpin, running shoes; Setzer 2 white capes; Mog BACK GUARD, sprint shoes
+esper Locke raiden, Mog fenrir
+
+fly to Veldt
+after get Gau:
+relic Mog back guard -> moogle charm; Setzer gale hairpin, running shoes
+equip Setzer ice shield
+
+Cave in the Veldt
+Sr. Behemoth: Setzer vanish, Locke raiden
+
+Colosseum
+LOCKE FRONT ROW
+bet striker, choose Locke
+
+Narshe 2
+GET RAGNAROK
+Locke back row
+
+Ice Dragon: Setzer vanish, Locke raiden
+revive Mog if dies? (enough MP to learn x-zone?)
+Tritoch: same
+Umaro: echo screen/joker doom
+
+Mog warp out
+
+unequip all
+party Celes, Setzer, Mog
+
+equip Celes enhancer, aegis shield, magus hat, white dress; Setzer and Mog optimum (NOT ice or flame shield)
+relic Celes earrings, hero ring; Setzer white cape, gale hairpin; Mog moogle charm, sprint shoes
+esper Mog fenrir (if doesn't know x-zone); Setzer raiden; Celes siren, float all
+arrange items
+
+Solitary Island
+get palidor
+
+Opera House
+Setzer/Celes vanish, Mog x-zone
+
+Jidoor
+dahlings: Celes and Mog use ice shield
+still life: flame shield
+Chadarnook: Setzer/Celes vanish, Mog x-zone
+
+get golem and zoneseek
+
+Fanatics' Tower - after get Strago:
+equip Celes optimum, enhancer; Setzer force shield
+relic Celes 2 white capes
+esper Celes raiden (from Setzer)
+give Celes elixir, Mog elixir (if needed)
+Relm back row
+
+White Dragon: vanish, x-zone/raiden
+
+***buy more echo screens (Tzen), fenix downs, smoke bombs (Albrook)
+
+unequip all members
+party: Cyan, Strago, Umaro, Terra
+give all magitek
+
+
+
+Kefka's Tower
+Edgar, Setzer, Relm, Cyan	Sabin, Strago, Mog,Celes (4th)		Shadow (leader), Terra, Locke, Gogo
+
+<switch to group 2>
+equip Celes optimum, thunder shield; Mog optimum, thunder shield
+relic Celes white cape x2; Mog moogle charm, sprint shoes
+esper Celes siren (if doesn't know mute)
+give Mog/Celes elixir if didn't before
+
+Gold Dragon: Celes vanish, Mog x-zone
+
+on switch
+unequip Celes and Mog
+remove Celes's relics
+
+<switch to group 3>
+equip Gog optimum, force shield
+Terra enhancer, force shield, bard's hat, force armor
+Locke optimum, aegis shield, force armor
+DON'T EQUIP SHADOW
+relic Gogo 2 white capes, Terra 2 white capes, others back guard, charm bangle, gale hairpin, sprint shoes
+
+KILL SHADOW in first battle (Terra bolt 2)
+
+Inferno: joker doom (use tonic/potion if atomic ray hits one person)
+revive Shadow afterward
+Skull Dragon: joker doom
+
+on switch
+unequip everyone
+
+<group 1>
+1st Relm optimum, force shield, tao robe
+Setzer optimum, force shield, force armor
+Edgar optimum, enhancer, aegis shield
+4th equip Cyan optimum
+relic Setzer 2 white capes, Relm 2 white capes, others back guard, etc.
+esper Relm raiden, Edgar bismark (fire for Doom) or shoat if doesn't know Doom
+
+<group 3>
+Guardian: joker doom
+Poltergeist: joker doom
+
+step on final switch
+unequip all
+remove all relics; relic Gogo running shoes, hero ring
+
+<group 1>
+give Setzer, Relm elixirs if needed
+
+Doom: Setzer vanish, Relm raiden
+Setzer, Edgar knows fire
+
+on save point:
+unequip all except Edgar
+equip Edgar man eater, force shield (bard's hat, force armor)
+remove Relm's, Cyan's relics (except sprint shoes)
+relic Setzer earrings, running shoes; Edgar 2 white capes
+arrange items? (for thunder shield near top)
+use tent
+
+<group 2>
+give Celes, Mog elixirs if needed
+MAKE SURE MOG HAS ENOUGH MP (53) FOR GODDESS
+Goddess: Celes vanish, Mog x-zone
+
+equip Celes optimum, enhancer, force shield, force armor
+relic Celes white cape, true knight
+elixir Celes
+
+final party
+5
+7
+10
+12
+
+Tier 1
+break on left hand
+get Gogo, Setzer, Edgar? to critical HP (Setzer and Gogo ice2 self)
+Celes/Gogo float everyone
+
+Reverse Joker Doom:
+Celes vanish
+Edgar muddle
+Gogo remedy
+
+move thunder shield to top of inventory during quake
+
+Tier 2
+wait for opening attacks
+if no one dies: reverse joker doom right away
+if someone dies: Edgar doom top middle, Celes mute far left
+	fenix down whoever died, reverse joker doom
+during 10 hits, equip thunder shield on Gogo and Celes
+*wait for final hit to equip on Celes
+
+Tier 3
+after enemies' opening attacks, re-equip Celes force shield
+Gogo mimic twice (use wait trick if got quick kill on Tier 2)
+
+***********************************************************************************
+max MBlock
+Celes: 139
+Terra: 137
+Edgar: 131
+Relm: 129
+Strago: 127
+Gogo: 126
+Locke: 122
+Setzer: 121
+Cyan: 111
+Shadow: 99
+Gau: 98
+Mog: 92
+Sabin: 84
+Umaro: 35
+
+CAN wear force armor
+Terra, Locke, Cyan, Edgar, Celes, Setzer
+
+CANNOT wear force armor
+Sabin, Shadow, Gau, Strago, Relm, Mog, Umaro, Gogo
+
+
+
+
+Celes: oath veil, force? shield, genji armor, czarina ring
+	can survive blue dragon and storm dragon 2 turns
+
+
+
+
+FIRST ATTACKS OF BOSSES
+Red Dragon	fire 2, fireball (messes up joker doom)
+Storm Dragon	attack, wind slash, rage
+Blue Dragon	cleansweep (water)
+SrBehemoth	Battle, !Evil Claw (if a character has reflect), Ice 2, Ice 3, Pearl (Imp, Meteo)
+White Dragon	pearl
+Chadarnook	(none - always preemptive) attack, charm	*no joker doom
+Ice Dragon	Battle, Surge (when die?), N. Cross, Absolute0
+Tritoch		Ice 3, Rasp (messes up joker doom), Cold Dust (rare)
+Umaro		Battle, !Tackle, blizzard (all very weak)	*no vanish/doom
+Doom Gaze	L.5 doom (safety bit/memento ring)
+SoulSavers	bolt 3 (most often), fire 3, ice 3, battle
+Gold Dragon	attack, bolt, bolt 2, giga volt
+Skull Dragon	Battle, Specter, Elf Fire, Condemned
+
+
+
+
+MP			
+6-12	Vermin/Sewer Rats	Edgar stray
+			Locke siren, learns sleep
+4	No. 024		Edgar learns muddle
+			Locke ramuh (for summon)
+10	Mag Roaders	Edgar carbuncle
+			Locke siren, learns fire
+			Sabin phantom (for summon)
+5	No. 128
+4	Cranes
+3	Imperial Castle	Setzer phantom
+			Edgar carbuncle
+1/2 each	Balloons
+4	Flame Eater
+10-12	IAF		Setzer bismark, learn fire after 3 battles, 6 extra MP, esper phantom
+			Edgar carbuncle
+3	Air Force
+5? each	Ninjas
+10	Atma Weapon
+~36	Naughtys		Edgar learns warp after 2 battles, esper shoat (30 MP for doom)
+			Setzer learns vanish after 3 battles, 22 extra MP
+			Celes phantom after Setzer's done (27 MP for vanish)
+3	Nerapa
+5	Tentacles		Celes learn vanish
+5	Dullahan		Sabin bismark?, learns fire
+			Celes stray? (for float)
+
+15-30	Maranda Desert	Edgar learn doom
+10	Storm Dragon
+10	Blue Dragon
+6	Curley, Larry, Moe	Mog bismark, learns fire
+7	Wrexsoul
+0	Phunbaba
+5 each?	Phases
+10	Red Dragon	Celes learns float
+2	Dahlings		Mog fenrir
+			Celes/Setzer siren
+2	Still Life
+6	Chadarnook	Mog learns warp
+10	Dirt Dragon	Mog learns x-zone
+			Celes/Setzer learns mute
+10	White Dragon	Celes/Setzer starlet
+			Celes/Setzer learns remedy
+10	Ice Dragon
+7	Tritoch
+0	Umaro
+5	Sr. Behemoth
+0	Doom Gaze
+10	Gold Dragon (group 2)
+10	Skull Dragon (group 3)
+		
+
+8	Inferno
+7	Guardian
+10	Poltergeist	
+10	Doom		
+10	Goddess		short 5 MP for Setzer learn float (if fights Goddess)
