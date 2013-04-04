@@ -1,6 +1,7 @@
 #+STARTUP: indent
 #+TITLE: Final Fantasy 6 - Any% Speedrun notes
 #+AUTHOR: gnuvince
+#+LaTeX_CLASS_OPTIONS: [10pt]
 #+LaTeX_HEADER: \usepackage{palatino}
 #+LaTeX_HEADER: \usepackage{color}
 #+LaTeX_HEADER: \DeclareTextFontCommand{\textbf}{\scshape\bfseries\color{blue}}
@@ -20,7 +21,7 @@ game, for their inspiring runs and for sharing their notes with me.
 - *Config*: Battle speed: 6; Message speed: 1; Cursor: Memory
 
 *** First battle
-- *Terra*: bio blast
+- *Terra*: Bio Blast
 - *Vicks* and *Wedge*: run away
 *** Avoid second battle
 - Avoid the middle of the road intersection near the items shop (walk
@@ -61,9 +62,9 @@ game, for their inspiring runs and for sharing their notes with me.
   - When last wolf is at your height, go left one step, then down
 
 *** Boss battle
-- *Mog* and *Kupan*: attack Marshal
-- *Kuku* and *Kutan*: attack Lobos
-- *Mog*: /equipment/ drop
+- *Mog* and *Kupan*: Attack Marshal
+- *Kuku* and *Kutan*: Attack Lobos
+- *Mog*: /Item/ drop equipment
 - Kill off Marshal
 
 #+CAPTION: Path to follow with Mog's group
@@ -184,7 +185,7 @@ game, for their inspiring runs and for sharing their notes with me.
 ** Empire Camp
 *** Battles against Kefka
 - *Sabin*: attack (a single attack will make Kefka run)
-*** Battle against 2 Templars + 2 Soliders
+*** Battle against 2 Templars + 2 Soldiers
 - Before battle: *Sabin*: Front row, Heal, /Relic/ +Black Belt (to counter)
 - During battle *Sabin*: Defend, let Sabin's counter attacks kill the enemies
 
@@ -223,7 +224,7 @@ game, for their inspiring runs and for sharing their notes with me.
 - *Sabin*: /Relic/ Earrings, White Cape
 - Skip the small wagon
 - Enter locomotive, activate left and right switches, get out
-- Go to the locomotive chemney
+- Go to the locomotive chimney
 - *Sabin* or *Cyan*: Fenix Down on Ghost Train (one-shot kill)
 
 ** Barren Falls
@@ -259,7 +260,7 @@ game, for their inspiring runs and for sharing their notes with me.
 - Go left to the secret passage
 - Smoke Bomb away from all battles
 - Follow light path to avoid fight
-  - Fast strat available, but difficult to pull off
+  - Fast strategy available, but difficult to pull off
 - Get out of the cave and to Arvis' house
 
 * Locke's Scenario
@@ -273,7 +274,7 @@ game, for their inspiring runs and for sharing their notes with me.
 ** Rescue Celes
 - Smoke bomb away from all fights
 - Grab chest on the right with Earrings
-- Go see Celes cutscene
+- Go see Celes cut scene
 - Go down into secret passage (aligned with intersection)
 - Grab Running Shoes and Hyper Wrist
 - Rescue Celes
@@ -415,7 +416,7 @@ game, for their inspiring runs and for sharing their notes with me.
 ** Magitek Factory
 - Runaway from all battles
 - Go down two flight of stairs, and through the pipe
-- Grab Flame Sabe in the chest
+- Grab Flame Sabre in the chest
 - Use the hook to cross
 - Go into the left pipe (don't open the chest)
 - Hop onto the conveyor belt
@@ -565,7 +566,7 @@ In some battles, even though you can get Joker Doom working, the
 enemies are immune to it.  However, a way around this has been
 discovered and is called the Reverse Joker Doom.  It's more
 complicated than the Joker Doom, and the execution is harder, but
-it's garanteed to work, even in the final battle!
+it's guaranteed to work, even in the final battle!
 
 - *Anyone*: /Magic/ Muddle on Setzer
 - *Setzer*: /Slot/ 7-7-Bar
@@ -582,4 +583,4 @@ spell on your own party!  Now, you'd think that by Muddling Setzer,
 the Reverse Joker Doom would be cast against enemies, but the
 developers thought of that.  However, they forgot to account for when
 you use a remedy, and that flips the target of the Reverse Joker
-Doom, and now it's the enemies that are targetted.
+Doom, and now it's the enemies that are targeted.
