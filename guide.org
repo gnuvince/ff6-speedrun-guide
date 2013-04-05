@@ -653,6 +653,32 @@ end of dinner.
 - *Strago*: Defend
 - *Locke*: Defend
 
+* Ultros 3
+** Cave
+- Get out of Thamasa and to the cave (down, left, up)
+- Smoke bomb away from all battles
+- Get out through the right (ignore chest)
+- Right and out of the door to bottom
+- Go to the statues
+- *Terra*: /Equip/ White Dress
+- *Terra*: /Relic/ Earrings, Earrings
+- *Strago*: /Relic/ Earrings, Hero Ring
+- *Locke*: /Relic/ Charm Bangle → Sneak Ring
+
+** Ultros Battle
+- *Locke*: Steal (should steal a White Cape)
+- *Strago* and *Terra*: Thunder Rod
+- <Relm cut scene>
+- *Terra*: Thunder Rod
+
+** Meeting the Espers
+- *Locke*: /Relic/ Sneak Ring → Charm Bangle
+- Left, up and into the door
+- Fall into the bottom trap door
+- Go up and out
+- Left and into the other cave entrance
+- <Cut scene>
+
 * Techniques
 ** Joker Doom
 Joker Doom is one of the possible outcome (7-7-7) of Setzer's Slot
