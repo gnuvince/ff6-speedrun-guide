@@ -3,6 +3,7 @@
 #+AUTHOR: gnuvince
 #+LaTeX_CLASS_OPTIONS: [10pt]
 #+LaTeX_HEADER: \usepackage{palatino}
+#+LaTeX_HEADER: \usepackage{parskip}
 #+LaTeX_HEADER: \usepackage{color}
 #+LaTeX_HEADER: \DeclareTextFontCommand{\textbf}{\scshape\bfseries\color{blue}}
 #+LaTeX_HEADER: \DeclareTextFontCommand{\emph}{\scshape\color{magenta}}
@@ -92,7 +93,7 @@ game, for their inspiring runs and for sharing their notes with me.
 *** Meet Kefka
 - Go back to the throne room
 - Talk to Edgar
-- <Kefka cut scene>
+- <Kefka Cut scene>
 - With Edgar, talk to both guards, then Kefka
 - Go up, talk to Locke
 *** Go to bed
@@ -105,7 +106,7 @@ game, for their inspiring runs and for sharing their notes with me.
 - Go left, jump off ledge (auto)
 *** Leaving Figaro Castle [M-Tek Armor Battle]
 - *Edgar*: Auto Crossbow x2; *Locke*: Steal; *Terra*: Defend
-  - DO NOT use fire, don't want to trigger cut scene
+  - DO NOT use fire, don't want to trigger Cut scene
 *** Cave
 - Go to the cave to the east
 - Heal at spring
@@ -152,7 +153,7 @@ game, for their inspiring runs and for sharing their notes with me.
 - Go to Treasure room and grab everything
   - Don't forget the hidden White Cape
 - Go Talk to Banon and tell him "NO" 3 times to get Genji Gloves
-- <cut scene>
+- <Cut scene>
 
 ** Lethe River
 - *Everyone*: Back row
@@ -274,7 +275,7 @@ game, for their inspiring runs and for sharing their notes with me.
 ** Rescue Celes
 - Smoke bomb away from all fights
 - Grab chest on the right with Earrings
-- Go see Celes cut scene
+- Go see Celes Cut scene
 - Go down into secret passage (aligned with intersection)
 - Grab Running Shoes and Hyper Wrist
 - Rescue Celes
@@ -351,7 +352,7 @@ game, for their inspiring runs and for sharing their notes with me.
 *** Terra and Ramuh
 - Grab Running Shoes in chest on the left
 - Talk to Terra
-- <cut scene>
+- <Cut scene>
 - Grab Magicites (except Kirin, leftmost magicite)
 
 * Opera
@@ -437,12 +438,15 @@ game, for their inspiring runs and for sharing their notes with me.
   - *Celes*: /Equip/ Flame Sabre
   - *Edgar*: /Equip/ Thunder Blade
   - *Sabin* or *Locke*: Smoke bomb
+- In the room with the glass containers, grab Break Blade (secret
+  passage in front at the bottom of the screen in front of the
+  leftmost container)
 
 ** Number 024
-- *Locke*: Sleep
+- *Locke*: Sleep on Number 024
 - *Sabin*: AuraBolt; *Edgar*: Flash; *Celes*: Ice
 - *Locke*: Steal (we want the Rune Blade), then Ramuh
-- <cut scene>
+- <Cut scene>
 
 ** Mine cart
 - *Sabin*: /Esper/ Shoat, front row
@@ -525,16 +529,16 @@ game, for their inspiring runs and for sharing their notes with me.
 - Grab elixir in the chest
 - Go right, down, right, up, activate switch
 - Go right, down into the door, and exit the cave
-- <cut scene>
+- <Cut scene>
 *** Kefka Battle
 - *Locke*: Smoke Bomb
 ** Leaving the cave
 - /Item/ Warp stone
 - Go back to the airship
-- <cut scene>
+- <Cut scene>
 
 * Imperial Banquet
-** Party management
+** Airship
 - *Party*: Edgar, Terra, Sabin, Setzer
 - *Buy*: Warp Stone x2, Smoke Bomb x41
 - Get out of the ship
@@ -544,6 +548,110 @@ game, for their inspiring runs and for sharing their notes with me.
 - Head over to Vector
 - Go to the top of the town to be invited in the castle
 - Follow Red Guard, go up to talk to Gestahl
+- *Sabin*: /Esper/ Shoat
+- *Setzer*: /Esper/ Unicorn
+- *Everyone*: /Equip/ Optimum
+- *Sabin*: /Relic/ Earrings, Earrings
+- *Edgar*: /Relic/ Hero Ring, Hyper Wrist
+
+** Soldiers list
+- Walk down, out of the throne room
+- Talk to the two soldiers (2)
+- Talk to the two M-Tek Armor soldiers (4)
+- Go down and outside
+- Down the flight of stairs on the left, talk to the normal soldier
+  (5)
+- Talk to the two M-Tek Armors (7)
+  - During battle, *Sabin*: AuraBolt; *Edgar*: Drill
+- Go back inside, take a left, and into the door, open the two chests
+  (Back Guard, X-Potion)
+- Up the first flight of stairs, and into the door
+- Talk to all the soldiers (13)
+- Go into the bathroom, talk and fight soldier (14)
+- Go out of the dormatory, up the flight of stairs and into the door
+- Talk to the soldier (15) and go outside
+- Talk to soldier and M-Tek Armor on the left (17)
+- Go into the building at the top, talk and fight soldier (18)
+- Go out, talk to the 3 remaining M-Tek Armors (21)
+- Walk into the door, pass the room with nothing, down a flight of
+  stairs and into the door
+- Talk to the 2 soldiers in the room, open the chest (Gale Hairpin),
+  and talk to the last soldier in the bathroom (24)
+
+*** Party management
+- *All*: Back row
+- *All*: /Unequip/ weapons
+- *Terra*: /Relic/ Gale Hairpin, Back Guard
+- *Setzer*: /Relic/ Sprint Shoes
+- *Items*: /Arrange/
+
+** Banquet
+*** Dialogue
+Answering correctly and Gestahl will give you a Charm Bangle at the
+end of dinner.
+
+- "To our hometowns..."
+- "Leave him in jail..."
+- "That was inexcusable."
+- "Celes is one of us!"
+- "Why'd you start the war?"
+- "One more question please!"
+- "Why do you want peace now?"
+- "Let's talk about Espers..."
+- "Yes, the Espers have gone too far."
+- "Why'd you start the way?"
+- "Yes, let's take a break"
+- Go talk to the guards on the right
+  - *Edgar*: Flash; *Sabin*: Bio all
+- Go sit back down
+- "That your war's truly over."
+- "Yes"
+
+** Leaving Imperial Castle
+- Get out of the Castle
+- Go to the Café in Vector (go down, then left)
+- *Locke*: /Relic/ Running Shoes → Charm Bangle
+- *Locke*: /Esper/ None
+- *Locke*: Back row
+- Use a Warp Stone
+- Go to Albrook (down, then right)
+
+** Albrook
+- *Sell*: Mithril Knife, Rune Edge, Thunder Blade, Blizzard, Ashura,
+  Tempest, Fire Knuckle, Atlas Armlet, Break Blade, Dragon Boots
+  - Should have >= 41,200 GP
+- *Buy*: White Dress
+- Go down to the port
+- Examine crate at your right, obtain Warp Stone
+- Talk to Leo
+- Go to inn, talk to the owner
+- <Cut scene>
+- Go down to the port
+- Talk to Leo
+- <Cut scene>
+- Talk to Leo, then talk to Locke
+- Go up to Thamasa
+
+* Thamasa
+- *Buy*: Ice Rod x5, Thunder Rod x8
+- Go talk to Strago
+- <Cut scene>
+
+** Burning house
+*** Walkthrough
+- Smoke bomb away from all fights
+- Go up two rooms
+- Go up, right and into the door on the right
+- Go into right door, open chest, obtain Fire Rod, exit
+- Go into left door
+- Go into right door, open chest, obtain Ice Rod, exit
+- Go into left door
+
+*** Boss battle
+- *Terra*: Morph
+- *Terra*: /Item/ Ice Rod (one-shot kill)
+- *Strago*: Defend
+- *Locke*: Defend
 
 * Techniques
 ** Joker Doom
@@ -569,13 +677,13 @@ complicated than the Joker Doom, and the execution is harder, but
 it's guaranteed to work, even in the final battle!
 
 - *Anyone*: /Magic/ Muddle on Setzer
-- *Setzer*: /Slot/ 7-7-Bar
-- *Anyone*: /Item/ Remedy on Setzer
+- *Setzer*: /Slot/ 7-7-Bar (during Muddle birds animation)
+- *Anyone*: /Attack/ Setzer OR /Item/ Remedy on Setzer
 
 You need to start performing the Slot command _after_ the Muddle spell
-has started and you need to finish _before_ the Muddle animation is
-done, otherwise you lose control of Setzer.  This is hard to do, and
-you should practice.
+has started and you need to finish your input _before_ the Muddle
+animation is done, otherwise you lose control of Setzer.  This is hard
+to do, and you should practice.
 
 Now, how does this work?  It's a bit convoluted, but here's the
 explanation.  Reverse Joker Doom (7-7-Bar) casts an instant death
