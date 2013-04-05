@@ -9,3 +9,14 @@ Thank you
 - EssentiaFour: I watched her videos to know what to do and sharing her notes.
 - MisterMV: I watched his videos to know what to do and sharing his notes. Also
   love the french interpretation of the Opera scene ;-)
+
+TODO
+----
+
+- Finish the guide
+- Reorganize sections (perhaps according to splits?)
+- Play with different ways of presenting the information (it should be
+  easy to glance at the document and know what to do), especially for
+  the walkthroughs.
+- Information on the different game choices (Relics, Espers, etc.)
+- Annotate items that we get for money

@@ -8,6 +8,7 @@
 #+LaTeX_HEADER: \DeclareTextFontCommand{\textbf}{\scshape\bfseries\color{blue}}
 #+LaTeX_HEADER: \DeclareTextFontCommand{\emph}{\scshape\color{magenta}}
 #+OPTIONS: toc:1
+#+MACRO: mgmt #+ATTR_LaTeX: align=l||l|l|l|l
 
 * Acknowledgments
 I would like to give a big and warm "thank you" to Essentia[fn::
@@ -674,10 +675,96 @@ end of dinner.
 ** Meeting the Espers
 - *Locke*: /Relic/ Sneak Ring → Charm Bangle
 - Left, up and into the door
-- Fall into the bottom trap door
+- Fall into the lower left trap door
 - Go up and out
 - Left and into the other cave entrance
 - <Cut scene>
+
+** Kefka vs Leo
+- *Leo*: Shock x5
+
+** Leaving Thamasa
+- Before boarding airship
+
+  {{{mgmt}}}
+|          | Esper | Relic | Equip | Row |
+|----------+-------+-------+-------+-----|
+| *Relm*   |       | Empty | Empty |     |
+| *Locke*  |       | Empty | Empty |     |
+| *Terra*  | Ramuh |       |       |     |
+| *Strago* |       | Empty | Empty |     |
+
+- Board the airship
+- <Cut scene>
+- *Party*: Setzer, Sabin, Empty, Terra
+
+  {{{mgmt}}}
+|          | Esper | Relic | Equip   | Row |
+|----------+-------+-------+---------+-----|
+| *Setzer* | Shoat |       | Optimum |     |
+| *Sabin*  | Siren |       | Optimum |     |
+| *Terra*  |       |       |         |     |
+
+
+* Imperial Air Force
+** 6 Battles
+- *Terra*: Ramuh
+- *Sabin* or *Setzer*: Attack (if necessary)
+- Healing: Use Terra's cure or potions
+- Make sure Terra has at least 38 MP to cast Phantom
+
+** Ultros and Chuppon
+*** Before battle
+{{{mgmt}}}
+|          | Esper   | Relic                       | Equip   | Row |
+|----------+---------+-----------------------------+---------+-----|
+| *Setzer* |         | Running Shoes, Gale Hairpin |         |     |
+| *Sabin*  |         | Charm Bangle, Sprint Shoes  |         |     |
+| *Terra*  | Phantom | Back Guard, Running Shoes   | -Weapon |     |
+
+*** Battle
+Ultros will not call Chupon until you've dealt him damage, so take
+your time, it's time for the first Reverse Joker Doom
+
+- *Terra*: Phantom
+- Wait for all to have full ATB bars
+- *Sabin*: Muddle on Setzer
+- *Setzer*: /Slot/ 7-7-Bar (Reverse Joker Doom)
+- *Terra*: Attack Setzer
+
+** Air Force
+- *Terra*: Morph
+- *Terra*: Thunder Rod on Air Force (one-shot kill)
+
+
+* Floating Continent
+** Walkthrough
+- *Terra*: /Esper/ Ramuh
+- *Terra*: /Weapon/ Flame Saber
+- If you get a battle against ninjas, use Thunder Rod on all, they're
+  too fast for your smoke bombs
+  - Make sure to keep one Thunder Rod, you're gonna need it!
+- Don't talk to Shadow
+- Go right, up the stair, right, down the passage
+- Open the stairs on mound, take teleport
+- Down two flights of stairs right, activate switch
+- Go right, down the stairs and keep going right, and into the teleport
+- Down, left into the teleport
+- Down and activate the switch, go up left
+- Activate the switch, down the stairs, left, down the stairs twice
+- Go right, down the stairs, up the stairs, activate the switch and
+  into the teleport
+- Don't go into the airship
+
+** Atma Weapon
+You need to perform a Joker Doom on Atma Weapon to win.  If you miss
+it, it's game over, you have no way of winning against him.  So either
+save before or make sure you're very comfortable using Joker Doom.
+
+- *Terra*: Smoke Bomb
+- *Setzer*: /Slot/ 7-7-7
+- <Cut scene>
+
 
 * Techniques
 ** Joker Doom
@@ -695,6 +782,9 @@ And so, you can use Joker Doom pretty much any time you like.
 - Wait for the first smoke cloud
 - *Setzer*: /Slot/ 7-7-7
 
+Note that if you miss the Joker Doom, you're done, you cannot put the
+RNG back into the correct state.  Be careful!
+
 ** Reverse Joker Doom
 In some battles, even though you can get Joker Doom working, the
 enemies are immune to it.  However, a way around this has been
@@ -710,6 +800,9 @@ You need to start performing the Slot command _after_ the Muddle spell
 has started and you need to finish your input _before_ the Muddle
 animation is done, otherwise you lose control of Setzer.  This is hard
 to do, and you should practice.
+
+Note that contrary to the regular Joker Doom, you can re-do the
+Reverse Joker Doom as many times as you like.
 
 Now, how does this work?  It's a bit convoluted, but here's the
 explanation.  Reverse Joker Doom (7-7-Bar) casts an instant death
