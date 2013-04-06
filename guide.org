@@ -141,7 +141,7 @@ game, for their inspiring runs and for sharing their notes with me.
 * Returners and River Escape
 ** Leaving Mt Kolts
 - Grab tent in the cave (to resell later)
-- Run away from all fights
+- Run away from all battles
 - Go to Returner's Hideout
 
 ** Returner's Hideout
@@ -253,14 +253,14 @@ game, for their inspiring runs and for sharing their notes with me.
 
 * Terra's Scenario
 ** Lethe River
-- *Edgar*: /Relic/ +Sprint shoes
-- Use smoke bombs to run away from all battles
+- *Edgar*: /Relic/ +Sprint Shoes
+- Flee from all battles (Smoke bombs)
 - Go to Narshe
 
 ** Narshe
 - Go left to the secret passage
-- Smoke Bomb away from all battles
-- Follow light path to avoid fight
+- Flee from all battles (Smoke bombs)
+- Follow light path to avoid battle
   - Fast strategy available, but difficult to pull off
 - Get out of the cave and to Arvis' house
 
@@ -273,7 +273,7 @@ game, for their inspiring runs and for sharing their notes with me.
 - *Locke*: walk up (should walk through guard)
 - Go into the house
 ** Rescue Celes
-- Smoke bomb away from all fights
+- Flee from all battles (Smoke bombs)
 - Grab chest on the right with Earrings
 - Go see Celes Cut scene
 - Go down into secret passage (aligned with intersection)
@@ -329,7 +329,7 @@ game, for their inspiring runs and for sharing their notes with me.
 
 ** Zozo
 *** Walkthrough
-- Smoke bomb to run away from all battles
+- Flee from all battles (Smoke bombs)
 - Go to 2nd building (left/down)
 - Go up the stairs (inside, outside, inside again)
 - Go up one flight of stairs, jump left through the window
@@ -367,7 +367,7 @@ game, for their inspiring runs and for sharing their notes with me.
     optimum, giving him two weapons
 - *Locke*: /Equip/ Optimum
 - *Sabin*: Front row
-- Smoke bombs to run away from all battles
+- Flee from all battles (Smoke bombs)
 - Go to Jidoor
 
 ** Jidoor
@@ -468,7 +468,7 @@ game, for their inspiring runs and for sharing their notes with me.
 - *Locke*: Attack (or Phantom if Vanish is lost)
 
 ** Leaving Vector
-- Smoke bomb away from all battles
+- Flee from all battles (Smoke bombs)
 
 ** Cranes
 - *Locke*: Echo Screen
@@ -639,7 +639,7 @@ end of dinner.
 
 ** Burning house
 *** Walkthrough
-- Smoke bomb away from all fights
+- Flee from all battles (Smoke bombs)
 - Go up two rooms
 - Go up, right and into the door on the right
 - Go into right door, open chest, obtain Fire Rod, exit
@@ -656,7 +656,7 @@ end of dinner.
 * Ultros 3
 ** Cave
 - Get out of Thamasa and to the cave (down, left, up)
-- Smoke bomb away from all battles
+- Flee from all battles (Smoke bombs)
 - Get out through the right (ignore chest)
 - Right and out of the door to bottom
 - Go to the statues
@@ -806,7 +806,7 @@ save before or make sure you're very comfortable using Joker Doom.
 - Go up, past Kefka's tower and a little to the left into Tzen
 - Go talk to Sabin
 *** Saving the kid
-- Smoke bomb away from all battles
+- Flee from all battles (Smoke bombs)
 - Go into the first room, open the chest and grab the Pearl Rod
 - Go into the second room, don't open the chest, go downstairs
 - Go up, grab the kid, ignore chests
@@ -839,7 +839,7 @@ save before or make sure you're very comfortable using Joker Doom.
 
 ** Cave
 - During a battle, *Celes*: /Equip/ Enhancer
-- Smoke bomb away from all battles
+- Flee from all battles (Smoke bombs)
 - Jump on the turtle to go through the door
 - Go left and into the door
 - Go left and down into the door
@@ -884,7 +884,7 @@ save before or make sure you're very comfortable using Joker Doom.
 | *Setzer* | Optimum |         | Unicorn |       |
 | *Sabin*  |         |         |         |       |
 
-- Smoke bomb away from all battles
+- Flee from all battles (Smoke bombs)
 - Go down into the door
 - Go left, down and into the door
 - Ignore chest, go downstairs
@@ -909,6 +909,57 @@ save before or make sure you're very comfortable using Joker Doom.
 - *Anyone*: Echo Screen
 - *Setzer*: /Slot/ 7-7-7
 - <Cut scene>
+
+
+* Farming
+- Go to the desert next to Maranda
+- *Edgar*: /Unequip/ Charm Bangle
+- *Celes*: Phantom
+- Battle until *Celes* learns Vanish
+  - *Sabin* should be close to learning Float
+  - *Setzer* should be close to learning Remedy
+- *Edgar*: /Equip/ Charm Bangle
+- Go to Maranda
+- *Buy*: Tao Robe
+
+* Kupo!
+- Go to Narshe
+- Enter classroom and use the healing pot
+- Flee from all battles
+- Enter Narshe, go left and into the cave
+- Go right, up the stairs and into the door
+- Go left to the wooden stairs and left into the cave
+- Go up, left on the bridge, up the stairs and into the door
+- Go up to the door
+- Go up, right and down into the door
+- Go up to the door
+- Talk to Mog
+- /Item/ Warp Stone
+
+* Gogo
+- Go to the Triangle Island (North East)
+- On airship, *Party*: Mog
+- Land and walk into the forest to meet a Zone Eater
+- *Mog*: /Relic/ Moogle Charm, Sprint Shoes
+- Go down the stairs
+- Head left to the bridges
+- Jump bridges to get to the left of the room (avoid green guys)
+- Go through the door room
+- Rush left to the second chest, don't open it, and wait for the
+  ceiling to fall
+- Rush left and down to get out of the room
+- Go down, left, jump over the chest
+- Go up, jump over the two chests, come back around and jump over the chest
+- Go into the door
+- Talk to Gogo
+- Get out of the room
+- Go down, right and jump over the chest
+- Go down and activate the switch
+- Jump right
+- Go down, and jump over the chests to get to the chest at the end
+  and obtain Thunder Shield
+- /Item/: Warp Stone
+- *Gogo*: /Status/ Slot, Magic, Item
 
 
 * Techniques
