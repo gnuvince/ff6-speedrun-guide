@@ -18,7 +18,7 @@ game, for their inspiring runs and for sharing their notes with me.
 
 * Leaving Narshe
 ** Going to the cave
-- *Terra*: back row
+- *Terra*: /Row/ back
 - *Config*: Battle speed: 6; Message speed: 1; Cursor: Memory
 
 *** First battle
@@ -115,8 +115,13 @@ game, for their inspiring runs and for sharing their notes with me.
   - *Locke*: /Equip/ Mithril Shield
 *** South Figaro
 - *Buy*: Sprint shoes x2
-- *Terra*: /Relic/ +Sprint shoes
-- *Locke* and *Edgar*: back row
+{{{mgmt}}}
+|         | /Equip/ | /Relic/       | /Esper/ | /Row/ |
+|---------+---------+---------------+---------+-------|
+| *Edgar* |         |               |         | Back  |
+| *Locke* |         |               |         | Back  |
+| *Terra* |         | +Sprint Shoes |         |       |
+
 - Ride Chocobo to Mt Kolts
 
 ** Mt Kolts
@@ -156,9 +161,14 @@ game, for their inspiring runs and for sharing their notes with me.
 - <Cut scene>
 
 ** Lethe River
-- *Everyone*: Back row
-- *Sabin*: /Equip/ Optimum; /Relic/ +Sprint shoes
-- *Terra*: /Relic/ -Sprint shoes
+{{{mgmt}}}
+|         | /Equip/ | /Relic/       | /Esper/ | /Row/ |
+|---------+---------+---------------+---------+-------|
+| *Edgar* |         |               |         | Back  |
+| *Sabin* | Optimum | +Sprint Shoes |         | Back  |
+| *Terra* |         | -Sprint Shoes |         | Back  |
+| *Banon* |         |               |         | Back  |
+
 - Always select to go LEFT
 - Look for 2x Pterodron battle
   - *Edgar*: Autocross bow x2
@@ -203,7 +213,7 @@ game, for their inspiring runs and for sharing their notes with me.
 - Talk to Cyan to engage battle
 - *Sabin*: attack, AuraBolt Cadet
 *** M-TekArmor escape
-- *Sabin* and *Cyan*: back row
+- *Sabin* and *Cyan*: /Row/ back
 - *Sabin* and *Cyan*: fire beam
 
 ** Phantom Forest
@@ -297,11 +307,15 @@ game, for their inspiring runs and for sharing their notes with me.
 - Go right, and wait between the two rock
 - When guard on your left has passed, go left, then down
 - Go left and wait
-- *Celes*: Back row
-- *Celes*: /Relic/ +Running Shoes
-- *Cyan*: /Relic/ +Hyper Wrist
-- *Sabin*: /Relic/ White Cape → Earrings
-- *Celes*: /Equip/ Optimum
+{{{mgmt}}}
+|         | /Equip/ | /Relic/               | /Esper/ | /Row/ |
+|---------+---------+-----------------------+---------+-------|
+| *Cyan*  |         | +Hyper Wrist          |         |       |
+| *Edgar* |         |                       |         |       |
+| *Sabin* |         | White Cape → Earrings |         |       |
+| *Celes* | Optimum | +Running Shoes        |         | Back  |
+
+
 - When brown guard has passed, go down to Kefka
 ** Battle against Kefka
 - *Celes*: Runic; *Sabin*: AuraBolt; *Edgar*: Auto Crossbow; *Cyan*: SwdTech 1
@@ -316,14 +330,18 @@ game, for their inspiring runs and for sharing their notes with me.
 
 ** Figaro Castle
 - Talk to the old man, go to Kohlingen
-- *Sell*: peace ring, wall ring
+- *Sell*: Peace Ring, Wall Ring
 - *Buy*: Flash, Drill, Fenix Down x15, Revivify x27
 - Go to the shack (future Colliseum) up/left, get Hero Ring (pot on
   the left)
-- *Celes*: /Equip/ Optimum
-- *Edgar*: /Relic/ Earrings, Hero Ring
-- *Celes*: /Relic/ +Sprint Shoes
-- *Cyan*: /Relic/ +Atlas Armlet
+{{{mgmt}}}
+|         | /Equip/ | /Relic/             | /Esper/ | /Row/ |
+|---------+---------+---------------------+---------+-------|
+| *Cyan*  |         | +Atlas Armlet       |         |       |
+| *Edgar* |         | Earrings, Hero Ring |         |       |
+| *Sabin* |         |                     |         |       |
+| *Celes* | Optimum | +Sprint Shoes       |         |       |
+
 - Go to the Chocobo Forest
 - Ride to Zozo
 
@@ -359,16 +377,16 @@ game, for their inspiring runs and for sharing their notes with me.
 ** Leaving Zozo
 - *Party*: Locke, Celes, Edgar, Sabin
 - *Config*: Battle speed: Wait
-- *Locke*: /Esper/ +Siren
-- *Sabin*: /Esper/ +Stray
-- *Locke*: /Relic/ +Sneak Ring
-- *Sabin*: /Relic/ Genji Glove, Atlas Armlet
-  - By equipping the Genji Glove, his equipment will be changed to
-    optimum, giving him two weapons
-- *Locke*: /Equip/ Optimum
-- *Sabin*: Front row
-- Flee from all battles (Smoke bombs)
+{{{mgmt}}}
+|         | /Equip/ | /Relic/                   | /Esper/ | /Row/ |
+|---------+---------+---------------------------+---------+-------|
+| *Locke* | Optimum | +Sneak Ring               | Siren   |       |
+| *Celes* |         |                           |         |       |
+| *Edgar* |         |                           |         |       |
+| *Sabin* |         | Genji Glove, Atlas Armlet | Stray   | Front |
+
 - Go to Jidoor
+- Flee from all battles (Smoke bombs)
 
 ** Jidoor
 - *Buy*: Kaiser
@@ -403,12 +421,16 @@ game, for their inspiring runs and for sharing their notes with me.
 ** Airship
 - *Buy*: Warp Stones x2
 - *Heal*: left guy
-- *Celes*: /Relic/ Sprint Shoes, Running Shoes
-- *Locke*: /Relic/ Sprint Shoes → Running Shoes
-- *Sabin*: /Relic/ Earrings, Earrings
-- *Celes*: /Equip/ Optimum
-- *Sabin*: Back row, leader
-- Go to Vector (run away from all battles)
+{{{mgmt}}}
+|         | /Equip/ | /Relic/                      | /Esper/ | /Row/ |
+|---------+---------+------------------------------+---------+-------|
+| *Sabin* |         | Earrings, Earrings           |         | Back  |
+| *Locke* |         | Sprint Shoes → Running Shoes |         |       |
+| *Celes* | Optimum | Sprint Shoes, Running Shoes  |         |       |
+| *Edgar* |         |                              |         |       |
+
+- Go to Vector
+- Flee from all battles (Smoke bombs)
 
 ** Vector
 - Talk to the Returner sympathizer
@@ -449,14 +471,16 @@ game, for their inspiring runs and for sharing their notes with me.
 - <Cut scene>
 
 ** Mine cart
-- *Sabin*: /Esper/ Shoat, front row
-- *Locke*: /Esper/ Phantom, front row
-- *Edgar*: /Relic/ Earrings → Running Shoes
-- *Locke*: /Relic/ Sneak Ring → Sprint Shoes
-- *Sabin*: /Relic/ Genji Glove, Atlas Armlet
-- *Locke*: /Equip/ Flame Sabre (can be done during a battle)
+{{{mgmt}}}
+|         | /Equip/ | /Relic/                   | /Esper/ | /Row/ |
+|---------+---------+---------------------------+---------+-------|
+| *Sabin* |         | Genji Glove, Atlas Armlet | Shoat   | Front |
+| *Locke* |         | Sneak Ring → Sprint Shoes | Phantom | Front |
+| *Edgar* |         | Earrings → Running Shoes  |         |       |
+
 
 *** Battles
+- *Locke*: /Item/ Equip Flame Sabre
 - *Sabin*: Attack
 - *Edgar*: Drill or Flash
 - *Locke*: Phantom in 3rd battle
@@ -488,11 +512,11 @@ game, for their inspiring runs and for sharing their notes with me.
 ** Airship
 - *Party*: Locke, Terra
 - *Not in party*: /Unequip/
-- *Locke*: Back row
-- *Terra*: /Esper/ Madiun
-- *Locke*: /Equip/ Optimum, Thief Knife
-- *Terra*: /Equip/ Optimum, Flame Sabre, Magus Hat
-- *Terra*: /Relic/ Running Shoes, Sprint Shoes
+{{{mgmt}}}
+|         | /Equip/                         | /Relic/                     | /Esper/ | /Row/ |
+|---------+---------------------------------+-----------------------------+---------+-------|
+| *Locke* | Optimum, Thief Knight           |                             |         | Back  |
+| *Terra* | Optimum, Flame Sabre, Magus Hat | Running Shoes, Sprint Shoes | Maduin  |       |
 - Go to Narshe
 
 ** Narshe
@@ -548,11 +572,13 @@ game, for their inspiring runs and for sharing their notes with me.
 - Head over to Vector
 - Go to the top of the town to be invited in the castle
 - Follow Red Guard, go up to talk to Gestahl
-- *Sabin*: /Esper/ Shoat
-- *Setzer*: /Esper/ Unicorn
-- *Everyone*: /Equip/ Optimum
-- *Sabin*: /Relic/ Earrings, Earrings
-- *Edgar*: /Relic/ Hero Ring, Hyper Wrist
+  {{{mgmt}}}
+|          | /Equip/ | /Relic                 | /Esper/ | /Row/ |
+|----------+---------+------------------------+---------+-------|
+| *Edgar*  | Optimum | Hero Ring, Hyper Wrist |         |       |
+| *Terra*  | Optimum |                        |         |       |
+| *Sabin*  | Optimum | Earrings, Earrings     | Shoat   |       |
+| *Setzer* | Optimum |                        | Unicorn |       |
 
 ** Soldiers list
 - Walk down, out of the throne room
@@ -577,13 +603,17 @@ game, for their inspiring runs and for sharing their notes with me.
   stairs and into the door
 - Talk to the 2 soldiers in the room, open the chest (Gale Hairpin),
   and talk to the last soldier in the bathroom (24)
-
-*** Party management
-- *All*: Back row
-- *All*: /Unequip/ weapons
-- *Terra*: /Relic/ Gale Hairpin, Back Guard
-- *Setzer*: /Relic/ Sprint Shoes
+- Wait for the clock to run down
 - *Items*: /Arrange/
+{{{mgmt}}}
+|          | /Equip/ | /Relic                   | /Esper/ | /Row/ |
+|----------+---------+--------------------------+---------+-------|
+| *Edgar*  |         |                          |         | Back  |
+| *Terra*  | -Weapon | Gale Hairpin, Back Guard |         | Back  |
+| *Sabin*  |         |                          |         | Back  |
+| *Setzer* |         | Sprint Shoes             |         | Back  |
+
+
 
 ** Banquet
 *** Dialogue
@@ -610,9 +640,11 @@ end of dinner.
 ** Leaving Imperial Castle
 - Get out of the Castle
 - Go to the Café in Vector (go down, then left)
-- *Locke*: /Relic/ Running Shoes → Charm Bangle
-- *Locke*: /Esper/ None
-- *Locke*: Back row
+  {{{mgmt}}}
+|         | /Equip/ | /Relic                       | /Esper/ | /Row/ |
+|---------+---------+------------------------------+---------+-------|
+| *Locke* |         | Running Shoes → Charm Bangle | None    | Back  |
+
 - Use a Warp Stone
 - Go to Albrook (down, then right)
 
@@ -660,16 +692,19 @@ end of dinner.
 - Get out through the right (ignore chest)
 - Right and out of the door to bottom
 - Go to the statues
-- *Terra*: /Equip/ White Dress
-- *Terra*: /Relic/ Earrings, Earrings
-- *Strago*: /Relic/ Earrings, Hero Ring
-- *Locke*: /Relic/ Charm Bangle → Sneak Ring
+  {{{mgmt}}}
+|          | /Equip/     | /Relic                    | /Esper/ | /Row/ |
+|----------+-------------+---------------------------+---------+-------|
+| *Locke*  |             | Charm Bangle → Sneak Ring |         |       |
+| *Terra*  | White Dress | Earrings, Earrings        |         |       |
+| *Strago* |             | Earrings, Hero Ring       |         |       |
+
 
 ** Ultros Battle
 - *Locke*: Steal (should steal a White Cape)
 - *Strago* and *Terra*: Thunder Rod
 - <Relm cut scene>
-- *Terra*: Thunder Rod
+- *Terra*: Thunder Rod (one-shot kill)
 
 ** Meeting the Espers
 - *Locke*: /Relic/ Sneak Ring → Charm Bangle
