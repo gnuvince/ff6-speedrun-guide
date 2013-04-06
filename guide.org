@@ -1,7 +1,6 @@
 #+STARTUP: indent
 #+TITLE: Final Fantasy 6 - Any% Speedrun notes
 #+AUTHOR: gnuvince
-#+LaTeX_CLASS_OPTIONS: [10pt]
 #+LaTeX_HEADER: \usepackage{palatino}
 #+LaTeX_HEADER: \usepackage{parskip}
 #+LaTeX_HEADER: \usepackage{color}
@@ -687,23 +686,23 @@ end of dinner.
 - Before boarding airship
 
   {{{mgmt}}}
-|          | Esper | Relic | Equip | Row |
-|----------+-------+-------+-------+-----|
-| *Relm*   |       | Empty | Empty |     |
-| *Locke*  |       | Empty | Empty |     |
-| *Terra*  | Ramuh |       |       |     |
-| *Strago* |       | Empty | Empty |     |
+|          | /Equip/ | /Relic/ | /Esper/ | /Row/ |
+|----------+---------+---------+---------+-------|
+| *Relm*   | Empty   | Empty   |         |       |
+| *Locke*  | Empty   | Empty   |         |       |
+| *Terra*  |         |         | Ramuh   |       |
+| *Strago* | Empty   | Empty   |         |       |
 
 - Board the airship
 - <Cut scene>
 - *Party*: Setzer, Sabin, Empty, Terra
 
   {{{mgmt}}}
-|          | Esper | Relic | Equip   | Row |
-|----------+-------+-------+---------+-----|
-| *Setzer* | Shoat |       | Optimum |     |
-| *Sabin*  | Siren |       | Optimum |     |
-| *Terra*  |       |       |         |     |
+|          | /Equip/ | /Relic/ | /Esper/ | /Row/ |
+|----------+---------+---------+---------+-------|
+| *Setzer* | Optimum |         | Shoat   |       |
+| *Sabin*  | Optimum |         | Siren   |       |
+| *Terra*  |         |         |         |       |
 
 
 * Imperial Air Force
@@ -716,11 +715,11 @@ end of dinner.
 ** Ultros and Chuppon
 *** Before battle
 {{{mgmt}}}
-|          | Esper   | Relic                       | Equip   | Row |
-|----------+---------+-----------------------------+---------+-----|
-| *Setzer* |         | Running Shoes, Gale Hairpin |         |     |
-| *Sabin*  |         | Charm Bangle, Sprint Shoes  |         |     |
-| *Terra*  | Phantom | Back Guard, Running Shoes   | -Weapon |     |
+|          | /Equip/ | /Relic/                     | /Esper/ | /Row/ |
+|----------+---------+-----------------------------+---------+-------|
+| *Setzer* |         | Running Shoes, Gale Hairpin |         |       |
+| *Sabin*  |         | Charm Bangle, Sprint Shoes  |         |       |
+| *Terra*  | -Weapon | Back Guard, Running Shoes   | Phantom |       |
 
 *** Battle
 Ultros will not call Chupon until you've dealt him damage, so take
@@ -761,7 +760,153 @@ You need to perform a Joker Doom on Atma Weapon to win.  If you miss
 it, it's game over, you have no way of winning against him.  So either
 save before or make sure you're very comfortable using Joker Doom.
 
-- *Terra*: Smoke Bomb
+- *Terra*: Echo Screen
+- *Setzer*: /Slot/ 7-7-7
+- <Cut scene>
+
+** Escape from the floating continent
+{{{mgmt}}}
+|          | /Equip/ | /Relic/                    | /Esper/ | /Row/ |
+|----------+---------+----------------------------+---------+-------|
+| *Celes*  | Optimum | Hero Ring, Earrings        | Phantom |       |
+| *Sabin*  |         | Running Shoes → Back Guard | Stray ‡  |       |
+| *Setzer* |         |                            | Unicorn |       |
+| *Terra*  |         | Earrings, Earrings         |         |       |
+
+‡ Only if Sabin has learned Doom
+
+- All Naughty battles: *Terra*: Bolt 2
+- Keep heading right
+
+*** Nerapa
+- *Terra*: Thunder Rod (one-shot kill)
+- Don't wait for Shadow
+- <Cut scene>
+
+* Saving Cid
+{{{mgmt}}}
+|         | /Equip/            | /Relic/                    | /Esper/ | /Row/ |
+|---------+--------------------+----------------------------+---------+-------|
+| *Celes* | Optimum, Magus Hat | Sprint Shoes, Charm Bangle | Phantom |       |
+
+1. Get out of the house
+2. Go down to the beach
+3. If there are no fishes or no fast fish, GOTO 5
+4. Pick the fastest fish
+5. Go into the house
+6. Talk to Cid
+7. GOTO 1
+
+- Repeat until Cid heals
+- Go downstairs to grab the raft
+
+* Tentacle Monster
+** Tzen
+- Once of the raft, don't go into the nearest village
+- Go up, past Kefka's tower and a little to the left into Tzen
+- Go talk to Sabin
+*** Saving the kid
+- Smoke bomb away from all battles
+- Go into the first room, open the chest and grab the Pearl Rod
+- Go into the second room, don't open the chest, go downstairs
+- Go up, grab the kid, ignore chests
+- Get out of the house
+
+** Nikeah
+{{{mgmt}}}
+|         | /Equip/             | /Relic/                  | /Esper/ | /Row/ |
+|---------+---------------------+--------------------------+---------+-------|
+| *Sabin* | Optimum             | Back Guard, Gale Hairpin | Stray   |       |
+| *Celes* | Unequip Flame Sabre |                          |         |       |
+
+- Go north east into the woods to get a Chocobo
+- Head over to Nikeah (head of the serpent trench)
+- *Sell*: Flame Sabre, Dirk, Chocobo Brush, Boomerang, Thief Knife,
+  Atlas Armlet, Earrings x2, Thunder Rod, Revivify (keep 2), Sneak Ring,
+  Czarina Ring, Mithril Knife, Memento Ring
+  - Need 29,000 GP
+  - Last digit of GP _must_ be 0, 6, or 9 to protect against L?-Pearl
+- *Buy*: Enhancer, Bard's Hat x2, White Cape x2
+  - Buy a 3rd White Cape if you didn't steel one from Ultros 3
+- Go into the Café and talk to all thieves
+- Get out of the cafe, goup and talk to Edgar/Gerad
+- Follow him on the ship
+
+** South Figaro
+- Go to the Inn/Cafe, talk to Edgar/Gerad
+- Go grab a Chocobo
+- Head to the cave
+
+** Cave
+- During a battle, *Celes*: /Equip/ Enhancer
+- Smoke bomb away from all battles
+- Jump on the turtle to go through the door
+- Go left and into the door
+- Go left and down into the door
+- Go to Basement 3
+- Go down into door, open both chests, obtain Gravity Rod and Crystal
+  Helm
+- Go up and into the engine room
+- *Sabin*: /Order/ 4th slot
+  {{{mgmt}}}
+|         | /Equip/ | /Relic/                      | /Esper/ | /Row/ |
+|---------+---------+------------------------------+---------+-------|
+| *Celes* |         | Sprint Shoes → Running Shoes |         |       |
+| *Sabin* |         | Running Shoes, Hero Ring |         |       |
+- Talk to Edgar
+
+** Tentacle Monster Battle
+- *Edgar*: Gravity Rod on bottom left
+- *Celes*: Fire & Ice Rod all
+- *Sabin*: Ice Rod all
+- *Edgar*: Drill top tentacles
+
+
+* The Falcon
+** Setzer
+{{{mgmt}}}
+|         | /Equip/ | /Relic/                    | /Esper/ | /Row/ |
+|---------+---------+----------------------------+---------+-------|
+| *Edgar* |         | Charm Bangle, Sprint Shoes |         |       |
+| *Celes* |         | Earrings → Back Guard      |         |       |
+| *Sabin* |         | Hero Ring → Gale Hairpin   |         |       |
+
+- Go talk to the old man to go to Kohlingen
+- Go up left to Kohlingen
+- Go into the Inn, talk to Setzer
+
+** Daryl's Tomb
+{{{mgmt}}}
+|          | /Equip/ | /Relic/ | /Esper/ | /Row/ |
+|----------+---------+---------+---------+-------|
+| *Edgar*  |         |         |         |       |
+| *Celes*  |         |         |         |       |
+| *Setzer* | Optimum |         | Unicorn |       |
+| *Sabin*  |         |         |         |       |
+
+- Smoke bomb away from all battles
+- Go down into the door
+- Go left, down and into the door
+- Ignore chest, go downstairs
+- Ignore chest, go up into the door
+- Activate the door
+- /Item/ Warp Stone
+- Go down into the door
+- Go right and up into the door
+- Activate the tomb
+- Go up, and activate the switch
+- Go back to Basement 2, and down in the middle door
+- Hop a ride on the turtle
+- Activate the switch, hop a ride on the turtle and into the door
+- Open right chest, obtain Man Eater
+- Go up
+
+** Dullahan
+- Dullahan will cast L?-Pearl, killing all members that have a level
+  divisible by the last digit of your GPs, which is why it should be
+  0 (6 and 9 work as well as your characters should be between 13
+  and 17)
+- *Anyone*: Echo Screen
 - *Setzer*: /Slot/ 7-7-7
 - <Cut scene>
 
