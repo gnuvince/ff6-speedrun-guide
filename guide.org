@@ -7,7 +7,7 @@
 #+LaTeX_HEADER: \DeclareTextFontCommand{\textbf}{\scshape\bfseries\color{blue}}
 #+LaTeX_HEADER: \DeclareTextFontCommand{\emph}{\scshape\color{magenta}}
 #+OPTIONS: toc:1
-#+MACRO: mgmt #+ATTR_LaTeX: align=l||l|l|l|l
+#+MACRO: mgmt #+ATTR_LaTeX: align=l||p{5cm}|l|l|l
 
 * Acknowledgments
 I would like to give a big and warm "thank you" to Essentia[fn::
@@ -763,8 +763,8 @@ your time, it's time for the first Reverse Joker Doom
 - *Terra*: Phantom
 - Wait for all to have full ATB bars
 - *Sabin*: Muddle on Setzer
-- *Setzer*: /Slot/ 7-7-Bar (Reverse Joker Doom)
 - *Terra*: Attack Setzer
+- *Setzer*: /Slot/ 7-7-Bar (Reverse Joker Doom)
 
 ** Air Force
 - *Terra*: Morph
@@ -994,8 +994,274 @@ save before or make sure you're very comfortable using Joker Doom.
 - Go down, and jump over the chests to get to the chest at the end
   and obtain Thunder Shield
 - /Item/: Warp Stone
-- *Gogo*: /Status/ Slot, Magic, Item
+- *Gogo*: /Status/ Mimic, Slot, Magic, Item
 
+* Kefka's Tower
+** Party Management
+- *Party 1*: Celes, Sabin
+- *Party 2*: Setzer, Mog
+- *Party 3*: Edgar, Gogo
+
+** Setzer, Mog
+{{{mgmt}}}
+|         | /Equip/ | /Relic/ | /Esper/ | /Row/ |
+|---------+---------+---------+---------+-------|
+| *Celes* | Empty   | Empty   |         |       |
+| *Sabin* | Empty   | Empty   |         |       |
+- Switch to Setzer's group
+- Because of Mog's Moogle Charm, you won't encounter any battle
+- Head down the stairs, left and into the shaft
+- Up the conveyor belt, left, down the conveyor belt and down and out
+  of the room
+- Get out of the bathroom, down and out through the door
+- Go left, up the two flights of stairs and into the door
+- Climb into the second pipe on the left
+- Open chest and obtain Force Shield
+- Down the conveyor belt, left into the shaft and activate the switch
+- Go back outside, down, left and open the chest and obtain Force Armor
+- Go right and into the door
+- Avoid dragon, go left and through the door
+- Out of the room
+- Go up, step on the switch, and switch to Edgar's group
+
+
+
+** Edgar, Gogo
+*** Walkthrough (1)
+{{{mgmt}}}
+|         | /Equip/      | /Relic/                  | /Esper/ | /Row/ |
+|---------+--------------+--------------------------+---------+-------|
+| *Edgar* |              |                          |         |       |
+| *Gogo*  | Force Shield | Gale Hairpin, Back Guard |         | Back  |
+
+- Flee all battles (Smoke bombs)
+  - Cannot flee from Gt. Behemoth battle; use a Joker Doom
+- Go down the two conveyor belts, down, left and through the door
+- Go left into the shaft
+- Down the stairs, ignore the chest, and go into the secret passage
+  directly below the big spinning gear.
+- Open the chest and obtain Aegis Shield
+- Go back into the room with the spinning gear.
+- Go up the conveyor belt
+{{{mgmt}}}
+|         | /Equip/      | /Relic/                | /Esper/ | /Row/ |
+|---------+--------------+------------------------+---------+-------|
+| *Edgar* | Aegis Shield | White Cape, White Cape |         |       |
+| *Gogo*  |              | White Cape, White Cape |         |       |
+- Go left and head for the stairs, boss battle
+
+*** Boss battle
+If the boss uses Atomic Ray and it hits, use any one of the following
+item before attempting to do the Joker Doom: Tonic, Potion, X-Potion,
+Fenix Down, Antidote
+- *Edgar*: Echo Screen
+- *Gogo*: /Slot/ 7-7-7
+
+*** Walkthrough (2)
+{{{mgmt}}}
+|         | /Equip/ | /Relic/                    | /Esper/ | /Row/ |
+|---------+---------+----------------------------+---------+-------|
+| *Edgar* |         | Charm Bangle, Sprint Shoes |         |       |
+| *Gogo*  |         | Back Guard, Gale Hairpin   |         |       |
+- Go down the stairs, down and out the door
+- Go down the stairs, left, activate the glittering chest, and
+  into the door
+- Avoid the dragon, go left and into the door
+- Up, left, down
+- Go up the stairs and activate the switch
+{{{mgmt}}}
+|         | /Equip/ | /Relic/ | /Esper/ | /Row/ |
+|---------+---------+---------+---------+-------|
+| *Edgar* | Empty   | Empty   |         |       |
+| *Gogo*  | Empty   | Empty   |         |       |
+- Switch to Celes' group
+
+** Celes and Sabin
+*** Walkthrough (1)
+{{{mgmt}}}
+|         | /Equip/               | /Relic/                    | /Esper/ | /Row/ |
+|---------+-----------------------+----------------------------+---------+-------|
+| *Celes* | Optimum, Enhancer     | Charm Bangle, Sprint Shoes |         |       |
+| *Sabin* | Optimum, Force Shield | Gale Hairpin, Back Guard   |         |       |
+- Flee from all battle (Smoke bombs)
+- During a battle (not a Gt. Behemoth one), *Celes*: Vanish on Sabin
+- Go down the conveyor belt, right up and left into the shaft
+- Go left and down on the conveyor belt, right and into the door
+- Go up, left (ignore chest), down and out of the room
+- Go left, down and right into the shaft
+- Down the stairs, down and out of the room
+- Down, right, up into the door
+- Up into the switch room
+- Go left, down, switch to the other groups, move off the switches
+- Drop the 4t block on Setzer's switch
+- Up into the room, activate the switch
+{{{mgmt}}}
+|         | /Equip/ | /Relic/ | /Esper/ | /Row/ |
+|---------+---------+---------+---------+-------|
+| *Celes* | Empty   | Empty   |         |       |
+| *Sabin* | Empty   | Empty   |         |       |
+- Switch to Setzer's group
+
+** Setzer and Mog
+- Go up the stairs, into the switch room
+- Go right, down and through the door
+- Drop the 4t block
+- Up into the room, activate the swtich
+- Switch to Edgar's Group
+
+** Edgar and Gogo
+{{{mgmt}}}
+|         | /Equip/               | /Relic/                    | /Esper/ | /Row/ |
+|---------+-----------------------+----------------------------+---------+-------|
+| *Edgar* | Optimum               | Charm Bangle, Sprint Shoes |         |       |
+| *Gogo*  | Optimum, Force Shield | Gale Hairpin, Back Guard   |         |       |
+
+- Go up the stairs, into the switch room
+- Go back out of the room
+- Activate the switch
+- Go back up into the switch room
+
+{{{mgmt}}}
+|         | /Equip/ | /Relic/ | /Esper/ | /Row/ |
+|---------+---------+---------+---------+-------|
+| *Edgar* | Empty   | Empty   |         |       |
+| *Gogo*  | Empty   | Empty   |         |       |
+- Switch to Celes's group
+
+** Celes and Sabin
+*** Walkthrough (1)
+{{{mgmt}}}
+|         | /Equip/               | /Relic/                    | /Esper/ | /Row/ |
+|---------+-----------------------+----------------------------+---------+-------|
+| *Celes* | Optimum, Enhancer     | Charm Bangle, Sprint Shoes |         |       |
+| *Sabin* | Optimum, Force Shield | Gale Hairpin, Back Guard   |         |       |
+
+- Go down, out of the room
+- Go left and up into the door
+- Go up into the door
+{{{mgmt}}}
+|         | /Equip/ | /Relic/                  | /Esper/ | /Row/ |
+|---------+---------+--------------------------+---------+-------|
+| *Celes* |         | White Cape, White Cape   |         |       |
+| *Sabin* |         | White Cape, White Cape   |         |       |
+- Talk to Doom
+
+*** Doom
+- *Celes*: Vanish on Doom
+- *Sabin*: Doom on Doom
+
+*** Walkthrough (2)
+{{{mgmt}}}
+|         | /Equip/ | /Relic/                    | /Esper/ | /Row/ |
+|---------+---------+----------------------------+---------+-------|
+| *Celes* |         | Charm Bangle, Sprint Shoes |         |       |
+| *Sabin* |         | Gale Hairpin, Back Guard   |         |       |
+- Go up and walk onto the chest
+{{{mgmt}}}
+|         | /Equip/ | /Relic/ | /Esper/ | /Row/ |
+|---------+---------+---------+---------+-------|
+| *Celes* | Empty   | Empty   |         |       |
+| *Sabin* | Empty   | Empty   |         |       |
+- Switch to Setzer's group
+
+** Setzer and Mog
+*** Walkthrough (1)
+- Go down, out of the room
+- Go right, up and through the door
+- Go up and talk to Goddess
+
+*** Goddess
+- *Mog*: Echo Screen
+- *Setzer*: /Slot/ 7-7-7
+
+*** Walkthrough (2)
+- Go through the door, and activate the switch
+- Switch to Edgar's group
+
+** Edgar and Gogo
+{{{mgmt}}}
+|         | /Equip/               | /Relic/                | /Esper/ | /Row/ |
+|---------+-----------------------+------------------------+---------+-------|
+| *Edgar* | Optimum, Enhancer     | White Cape, White Cape |         |       |
+| *Gogo*  | Optimum, Force Shield | White Cape, White Cape |         |       |
+*** Guardian
+- *Edgar*: Echo Screen
+- *Gogo*: /Slot/ 7-7-7
+*** Walkthrough (1)
+{{{mgmt}}}
+|         | /Equip/ | /Relic/                    | /Esper/ | /Row/ |
+|---------+---------+----------------------------+---------+-------|
+| *Edgar* |         | Charm Bangle, Sprint Shoes |         |       |
+| *Gogo*  |         | Gale Hairpin, Back Guard   |         |       |
+- Go up through the door
+- Go left, down and into the shaft
+- Go up the stairs
+{{{mgmt}}}
+|         | /Equip/               | /Relic/                | /Esper/ | /Row/ |
+|---------+-----------------------+------------------------+---------+-------|
+| *Edgar* | Optimum, Enhancer     | White Cape, White Cape |         |       |
+| *Gogo*  | Optimum, Force Shield | White Cape, White Cape |         |       |
+- Talk to Poltrgeist
+*** Poltrgeist
+- *Edgar*: Echo Screen
+- *Gogo*: /Slot/ 7-7-7
+
+*** Walkthrough (2)
+{{{mgmt}}}
+|         | /Equip/ | /Relic/                    | /Esper/ | /Row/ |
+|---------+---------+----------------------------+---------+-------|
+| *Edgar* |         | Charm Bangle, Sprint Shoes |         |       |
+| *Gogo*  |         | Gale Hairpin, Back Guard   |         |       |
+- Go up the stairs and through the door
+- Fall down the hole
+- DON'T STEP ON THE SWITCH
+
+** Equipment
+{{{mgmt}}}
+|          | /Equip/                                        | /Relic/                   | /Esper/ | /Row/ |
+|----------+------------------------------------------------+---------------------------+---------+-------|
+| *Edgar*  | Empty                                          | Empty                     |         |       |
+| *Gogo*   | Man Eater, Aegis Shield, Bard's Robe, Tao Robe | White Cape, Running Shoes |         |       |
+| *Celes*  | Optimum, Enhancer, Force Shield, Force Armor   | White Cape, True Knight   |         |       |
+| *Sabin*  | Empty                                          | Running Shoes             |         |       |
+| *Setzer* | Empty                                          | Empty                     |         |       |
+
+* Final Battle
+** Battle Order
+1. Sabin
+2. Celes
+3. Setzer
+4. Gogo
+
+** First phase
+- *Sabin*: Break on right hand (the monster's right hand, seen on the left)
+- Bring everyone but *Celes* to critical HP (either with hard
+  attacks, or kill them + Fenix Down); with True Knight, *Celes* will
+  protect them and because of her very high MEvade, will not take damage
+- *Sabin* and *Gogo*: Float on everybody (boss will cast Quake when
+  it dies)
+- *Celes*: Vanish on Setzer
+- *Sabin*: Muddle on Setzer
+- *Gogo*: Remedy
+- *Setzer*: /Slot/ 7-7-Bar
+
+** Second Phase
+- *Setzer* or *Gogo*: Mute on far left
+- *Sabin* or *Gogo*: Doom on top middle
+- *Celes*: Vanish on Setzer
+- *Sabin*: Muddle on Setzer
+- *Gogo*: Remedy
+- *Setzer*: /Slot/ 7-7-Bar
+- During 10 Hits, *Gogo* /Equip/ Thunder Shield
+
+** Third phase
+- After Merton (if it happens), *Gogo* /Equip/ Aegis Shield
+- *Gogo*: Mimic x2
+  - First Mimic tries to Reverse Joker Doom the previous enemy
+  - Second one will hit this enemy
+
+** Kefka
+- *Gogo*: Mimic x2
 
 * Techniques
 ** Joker Doom

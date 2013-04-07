@@ -18,5 +18,7 @@ TODO
 - Play with different ways of presenting the information (it should be
   easy to glance at the document and know what to do), especially for
   the walkthroughs.
+- Add more images for some walkthroughs?
 - Information on the different game choices (Relics, Espers, etc.)
 - Annotate items that we get for money
+- Possibly switch from org-mode to straight-up LaTeX (advanced macros and commands)
