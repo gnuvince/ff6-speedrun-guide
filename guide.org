@@ -11,8 +11,8 @@
 
 * Acknowledgments
 I would like to give a big and warm "thank you" to Essentia[fn::
-http://www.twitch.tv/essentiafour] and MisterMV[fn::
-http://www.twitch.tv/mistermv] for their dedication to a wonderful
+[[http://www.twitch.tv/essentiafour]]] and MisterMV[fn::
+[[http://www.twitch.tv/mistermv]]] for their dedication to a wonderful
 game, for their inspiring runs and for sharing their notes with me.
 
 
@@ -138,7 +138,7 @@ game, for their inspiring runs and for sharing their notes with me.
 - *Edgar*: /Unequip/ Mithril Blade
 *** Vargas
 - Ipoohs:
-  - *Edgar*: auto crossbow; *Locke*: steal; *Terra*: fire
+  - *Edgar*: drop Mithril Blade, auto crossbow; *Locke*: steal; *Terra*: fire
 - Vargas:
   - *Edgar*: auto crossbow; *Locke*: attack; *Terra*: fire
   - *Sabin*: Pummel (←→←)
@@ -164,9 +164,9 @@ game, for their inspiring runs and for sharing their notes with me.
 {{{mgmt}}}
 |         | /Equip/ | /Relic/       | /Esper/ | /Row/ |
 |---------+---------+---------------+---------+-------|
-| *Edgar* |         |               |         | Back  |
+| *Edgar* |         |               |         |       |
 | *Sabin* | Optimum | +Sprint Shoes |         | Back  |
-| *Terra* |         | -Sprint Shoes |         | Back  |
+| *Terra* |         | -Sprint Shoes |         |       |
 | *Banon* |         |               |         | Back  |
 
 - Always select to go LEFT
@@ -175,11 +175,10 @@ game, for their inspiring runs and for sharing their notes with me.
   - *Others*: run away
   - *Edgar*: level 11
 *** Ultros
-- *Sabin*: Aura bolt x5 (↓↓←)
-- *Edgar*: Auto crossbow x4
+- *Sabin*: Aura Bolt x5 (↓↓←)
+- *Edgar*: Auto Crossbow x5
 - *Banon*: Health, then defend
-- *Terra*: defend, then Fire after 5th Aura bolt
-  - During this time: *Edgar*: /Unequip/ Mithril Pike
+- *Terra*: Defend
 *** Choose scenario
 - Pick Sabin
 
@@ -202,9 +201,10 @@ game, for their inspiring runs and for sharing their notes with me.
 
 ** Doma Castle
 - Go to the Throne Room
-- Cut scene
+- <Dialogue>
 - Get out of the Throne Room
 - Go right to your room
+- <Dialogue>
 
 ** Empire Camp
 *** Joining Cyan
@@ -246,20 +246,24 @@ game, for their inspiring runs and for sharing their notes with me.
 
 ** Veldt
 - Run away from battles
-- Go to Mobliz, buy Dried Meat
+- Go right and around the mountains to Mobliz
+- *Buy*: Dried Meat
 - Go south to the cave, fight all battles and hope to meet Gau
+  - However, you should flee from battles with many enemies
 - *Sabin* or *Cyan*: use Dried Meat on Gau
 
 ** Serpent Trench
 - Run away from all battles
-- Path choices: left, right
+- Path choices: right, left
 
 ** Nikeah
-- *Sell*: Remedy, Tents x2, Air Lancet, Black Belt, Mithril Blade,
-  Mithril Pike, Sleeping bag
+- *Sell*: Remedy, Soft, Sleeping bag, Tents x2, Air Lancet, Black Belt, Mithril Blade,
+  Mithril Pike
+  - DO NOT sell the Dirk, Celes will need it for Runic
 - *Buy*: Magus Hat x1, Smoke Bombs (Max)
-- *Cyan*: /Relic/ -Sprint shoes
 - Go to the boat
+- *Cyan*: /Relic/ -Sprint shoes
+- Talk to the captain
 
 * Terra's Scenario
 ** Lethe River
@@ -641,9 +645,9 @@ end of dinner.
 - Get out of the Castle
 - Go to the Café in Vector (go down, then left)
   {{{mgmt}}}
-|         | /Equip/ | /Relic                       | /Esper/ | /Row/ |
+|         | /Equip/ | /Relic/                      | /Esper/ | /Row/ |
 |---------+---------+------------------------------+---------+-------|
-| *Locke* |         | Running Shoes → Charm Bangle | None    | Back  |
+| *Locke* |         | Running Shoes → Charm Bangle | Empty | Back  |
 
 - Use a Warp Stone
 - Go to Albrook (down, then right)

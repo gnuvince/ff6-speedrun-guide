@@ -15,6 +15,7 @@ TODO
 
 - Finish the guide
 - Reorganize sections (perhaps according to splits?)
+- Standardize the language
 - Play with different ways of presenting the information (it should be
   easy to glance at the document and know what to do), especially for
   the walkthroughs.
@@ -22,3 +23,4 @@ TODO
 - Information on the different game choices (Relics, Espers, etc.)
 - Annotate items that we get for money
 - Possibly switch from org-mode to straight-up LaTeX (advanced macros and commands)
+- French translation
