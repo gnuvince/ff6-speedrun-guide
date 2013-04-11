@@ -6,8 +6,10 @@
 #+LaTeX_HEADER: \usepackage{color}
 #+LaTeX_HEADER: \DeclareTextFontCommand{\textbf}{\scshape\bfseries\color{blue}}
 #+LaTeX_HEADER: \DeclareTextFontCommand{\emph}{\scshape\color{magenta}}
+#+LaTeX_HEADER: \usepackage[usenames,dvipsnames]{xcolor}
 #+OPTIONS: toc:1
 #+MACRO: mgmt #+ATTR_LaTeX: align=l||p{5cm}|l|l|l
+#+MACRO: sell \textcolor{Green}{\textsuperscript{\$}}
 
 * Acknowledgments
 I would like to give a big and warm "thank you" to Essentia[fn::
@@ -37,11 +39,16 @@ game, for their inspiring runs and for sharing their notes with me.
 - *Terra*: cast fire on all
 - *Vicks* and *Wedge*: run away
 *** Whelk
-- *Terra*: tek missile; *Vicks* and *Wedge*: bolt beam
-- Attack 4 times, then Whelk will retreat into shell
-- Wait
-- Attack again
+- *Terra*: Tek Missile (1st attack)
+- *Vicks* and *Wedge*: Bolt Beam (2nd and 3rd attacks)
+- *Terra*: Tek Missle (4th attack)
+- Gruuu, the Whelk goes into its shell
+- *Terra*: Tek Missile
 - Victory [No XP, so no need to run away]
+
+_NOTE_: It is important to follow the attack order (Terra, Vicks and
+Wedge, then Terra again) as it assures that you'll be able to finish
+him as soon as it comes out of its shell again.
 
 ** Cave pursuit
 - *Terra* should be level 6; if not, grind (use fire)
@@ -145,17 +152,18 @@ game, for their inspiring runs and for sharing their notes with me.
 
 * Returners and River Escape
 ** Leaving Mt Kolts
-- Grab tent in the cave (to resell later)
+- Grab Tent in the cave
 - Run away from all battles
 - Go to Returner's Hideout
 
 ** Returner's Hideout
-- Grab potion in the chest
+- Talk to the guard
+- Open chest (Potion)
 - Talk to Banon
-- Talk to Locke + grab chest
+- Talk to Locke and open chest (Fenix Down)
 - Talk to Sabin and go up
 - Talk to Edgar
-- Go to Treasure room and grab everything
+- Go to Treasure room and open all chests
   - Don't forget the hidden White Cape
 - Go Talk to Banon and tell him "NO" 3 times to get Genji Gloves
 - <Cut scene>
@@ -191,6 +199,8 @@ game, for their inspiring runs and for sharing their notes with me.
 - *Config*: Battle speed: 1 (faster counter attacks)
 *** Battle
 - *Cyan*: Retort (SwdTech 2)
+- Enemy should drop Black Belt, or Fenix Down if you are
+  unlucky.
 
 ** Empire Camp
 *** Battles against Kefka
@@ -538,7 +548,8 @@ game, for their inspiring runs and for sharing their notes with me.
 - If Lich: run away
 - *Locke*: Vanish, then Revivify
 - *Terra*: Revivify
-- *Locke*: Run away (make sure Terra casts the last Revivify)
+- *Locke*: Run away (make sure Terra casts the last Revivify so that
+  she gets all the experience)
 - *Terra*: Level 20
 *** Walkthrough
 - Go down through the door (ignore chest)
@@ -1283,8 +1294,13 @@ And so, you can use Joker Doom pretty much any time you like.
 - Wait for the first smoke cloud
 - *Setzer*: /Slot/ 7-7-7
 
-Note that if you miss the Joker Doom, you're done, you cannot put the
-RNG back into the correct state.  Be careful!
+Note that if you miss the Joker Doom, it is possible to restore the
+RNG so that you can try again; in any order, do the following:
+- *Anyone*: /Item/ Echo Screen
+- *Anyone*: /Item/ Tonic or Potion or Antidote or Fenix Down
+- *Setzer*: /Slots/ any combination
+Afterwards, you'll be able to attempt Joker Doom again.[fn:: Thank
+you to Essentia for providing this information.]
 
 ** Reverse Joker Doom
 In some battles, even though you can get Joker Doom working, the
@@ -1295,7 +1311,7 @@ it's guaranteed to work, even in the final battle!
 
 - *Anyone*: /Magic/ Muddle on Setzer
 - *Setzer*: /Slot/ 7-7-Bar (during Muddle birds animation)
-- *Anyone*: /Attack/ Setzer OR /Item/ Remedy on Setzer
+- *Anyone*: /Attack/ Setzer OR /Magic/ Remedy on Setzer
 
 You need to start performing the Slot command _after_ the Muddle spell
 has started and you need to finish your input _before_ the Muddle
